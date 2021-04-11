@@ -41,9 +41,9 @@ class FrontController extends Controller
     }
 
     /**
-     * Show front new-page
+     * Show front news-page
      */
-    public function new()
+    public function news()
     {
         return view('front.news');
     }

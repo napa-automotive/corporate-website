@@ -14,17 +14,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', function () {
-//    return view('welcome');
-// });
-
-Route::get('/', [FrontController::class, 'index'])->name('home');
-
-Route::get('about', [FrontController::class, 'about'])->name('about');
-Route::get('news', [FrontController::class, 'new'])->name('news');
-Route::get('team', [FrontController::class, 'team'])->name('team');
-Route::get('services', [FrontController::class, 'services'])->name('services');
-Route::get('faq', [FrontController::class, 'faq'])->name('faq');
-Route::get('testimonial', [FrontController::class, 'testimonial'])->name('testimonial');
-Route::get('project', [FrontController::class, 'project'])->name('project');
-Route::get('contact', [FrontController::class, 'contact'])->name('contact');
+Route::prefix('{lang?}')->middleware('locale')->group(function () {
+    // Main pages
+    Route::get('/', [FrontController::class, 'index'])->name('home');
+    Route::get('about', [FrontController::class, 'about'])->name('about');
+    Route::get('news', [FrontController::class, 'news'])->name('news');
+    Route::get('team', [FrontController::class, 'team'])->name('team');
+    Route::get('services', [FrontController::class, 'services'])->name('services');
+    Route::get('faq', [FrontController::class, 'faq'])->name('faq');
+    Route::get('testimonial', [FrontController::class, 'testimonial'])->name('testimonial');
+    Route::get('project', [FrontController::class, 'project'])->name('project');
+    Route::get('contact', [FrontController::class, 'contact'])->name('contact');
+});
