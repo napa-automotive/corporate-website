@@ -20,7 +20,7 @@
                 <div class="col-lg-12 col-md-12 whitecolor">
                     <h3 class="float-left">Новости</h3>
                     <ul class="breadcrumb top10 bottom10 float-right">
-                        <li class="breadcrumb-item hover-light"><a href="index.html">Главная</a></li>
+                        <li class="breadcrumb-item hover-light"><a href="/">Главная</a></li>
                         <li class="breadcrumb-item hover-light">Новости</li>
                     </ul>
                 </div>
@@ -35,7 +35,7 @@
         <div id="blog-measonry" class="cbp">
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
-                    <a class="image" href="blog-detail.html">
+                    <a class="image" href="#">
                         <img src="images/blog-measonry1.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
@@ -54,7 +54,7 @@
             </div>
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
-                    <a class="image" href="blog-detail.html">
+                    <a class="image" href="#">
                         <img src="images/blog-measonry2.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
@@ -73,7 +73,7 @@
             </div>
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
-                    <a class="image" href="blog-detail.html">
+                    <a class="image" href="#">
                         <img src="images/blog-measonry6.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
@@ -92,7 +92,7 @@
             </div>
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
-                    <a class="image" href="blog-detail.html">
+                    <a class="image" href="#">
                         <img src="images/video.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
@@ -115,7 +115,7 @@
             </div>
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
-                    <a class="image" href="blog-detail.html">
+                    <a class="image" href="#">
                         <img src="images/blog-measonry4.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
@@ -134,7 +134,7 @@
             </div>
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
-                    <a class="image" href="blog-detail.html">
+                    <a class="image" href="#">
                         <img src="images/blog-measonry3.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
@@ -160,9 +160,9 @@
                 <ul class="pagination justify-content-center top40">
                     <li class="page-item"><a class="page-link disabled" href="#."><i class="fa fa-angle-left"></i></a>
                     </li>
-                    <li class="page-item active"><a class="page-link" href="blog-1.html">1</a></li>
-                    <li class="page-item"><a class="page-link" href="blog-1.html">2</a></li>
-                    <li class="page-item"><a class="page-link" href="blog-1.html">3</a></li>
+                    <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
                     <li class="page-item"><a class="page-link" href="#."><i class="fa fa-angle-right"></i></a></li>
                 </ul>
             </div>

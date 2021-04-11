@@ -45,7 +45,7 @@ class FrontController extends Controller
      */
     public function new()
     {
-        return view('front.new');
+        return view('front.news');
     }
 
     /**

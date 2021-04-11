@@ -17,7 +17,7 @@
                 <div class="col-lg-12 col-md-12 whitecolor">
                     <h3 class="float-left">Контакты</h3>
                     <ul class="breadcrumb top10 bottom10 float-right">
-                        <li class="breadcrumb-item hover-light"><a href="index.html">Главная</a></li>
+                        <li class="breadcrumb-item hover-light"><a href="/">Главная</a></li>
                         <li class="breadcrumb-item hover-light">Контакты</li>
                     </ul>
                 </div>

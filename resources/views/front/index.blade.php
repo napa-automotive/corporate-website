@@ -403,7 +403,8 @@
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <p class="heading_space mt-n3 mt-sm-0 text-center text-md-left"> Мы молодая, динамично развивающаяся
                     компания, команда профессионалов, имеющая опыт внедрения ИТ услуг во все сферы деятельности
-                    организации. </p>
+                    организации.
+                </p>
             </div>
         </div>
         <div class="row">
@@ -419,12 +420,21 @@
                                     <h4 class="darkcolor">{{ $team->name }}</h4>
                                     <p>{{ $team->job }} </p>
                                     <ul class="social-icons-simple">
-                                        <li><a class="facebook" href="{{ $team->facebook }}"><i
-                                                    class="fab fa-facebook-f"></i> </a> </li>
-                                        <li><a class="twitter" href="{{ $team->twitter }}"><i class="fab fa-twitter"></i>
-                                            </a> </li>
-                                        <li><a class="insta" href="{{ $team->instagram }}"><i class="fab fa-instagram"></i>
-                                            </a> </li>
+                                        <li>
+                                            <a class="facebook" href="{{ $team->facebook }}">
+                                                <i class="fab fa-facebook-f"></i>
+                                            </a> 
+                                        </li>
+                                        <li>
+                                            <a class="twitter" href="{{ $team->twitter }}">
+                                                <i class="fab fa-twitter"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="insta" href="{{ $team->instagram }}">
+                                                <i class="fab fa-instagram"></i>
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>

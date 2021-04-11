@@ -5,7 +5,7 @@
 <header class="site-header">
    <nav class="navbar navbar-expand-lg padding-nav static-nav">
       <div class="container">
-         <a class="navbar-brand" href="index.html">
+         <a class="navbar-brand" href="/">
             <img src="images/logo.png" alt="logo">
          </a>
          <div class="collapse navbar-collapse">
@@ -18,10 +18,10 @@
                         <div class="container">
                            <div class="row">
                               <div class="col-lg-6 col-md-9 col-sm-12">
-                                 <a class="dropdown-item" href="index.html">Главная</a>
-                                 <a class="dropdown-item active" href="about.html">О Нас</a>
-                                 <a class="dropdown-item" href="blog-1.html">Новости</a>
-                                 <a class="dropdown-item" href="team.html">Наша команда</a>
+                                 <a class="dropdown-item" href="/">Главная</a>
+                                 <a class="dropdown-item active" href="{{ route('about') }}">О Нас</a>
+                                 <a class="dropdown-item" href="#">Новости</a>
+                                 <a class="dropdown-item" href="{{ route('team') }}">Наша команда</a>
                               </div>
                            </div>
                         </div>
@@ -36,9 +36,9 @@
                         <div class="container">
                            <div class="row">
                               <div class="col-lg-6 col-md-9 col-sm-12">
-                                 <a class="dropdown-item" href="services.html">Услуги</a>
-                                 <a class="dropdown-item" href="faq.html">FAQ's</a>
-                                 <a class="dropdown-item" href="testimonial.html">Отзывы</a>
+                                 <a class="dropdown-item" href="{{ route('services') }}">Услуги</a>
+                                 <a class="dropdown-item" href="{{ route('faq') }}">FAQ's</a>
+                                 <a class="dropdown-item" href="{{ route('testimonial') }}">Отзывы</a>
                               </div>
                            </div>
                         </div>
@@ -46,10 +46,10 @@
                   </ul>
                </li>
                <li class="nav-item  position-relative">
-                  <a class="nav-link" href="project.html" aria-haspopup="true" aria-expanded="false"> Проекты </a>
+                  <a class="nav-link" href="{{ route('project') }}" aria-haspopup="true" aria-expanded="false"> Проекты </a>
                </li>
                <li class="nav-item">
-                  <a class="nav-link" href="contact.html">Контакты</a>
+                  <a class="nav-link" href="{{ route('contact') }}">Контакты</a>
                </li>
 
             </ul>
@@ -82,7 +82,7 @@
             <div class="col-lg-12 col-md-12 whitecolor">
                <h3 class="float-left">Проекты</h3>
                <ul class="breadcrumb top10 bottom10 float-right">
-                  <li class="breadcrumb-item hover-light"><a href="index.html">Главная</a></li>
+                  <li class="breadcrumb-item hover-light"><a href="/">Главная</a></li>
                   <li class="breadcrumb-item hover-light">Проекты</li>
                </ul>
             </div>
@@ -124,7 +124,7 @@
                <div class="shop-content text-center">
                   <h4 class="darkcolor">Веб-сайт</h4>
                   <p>ALVIERO LOGISTICS </p>
-                  <h4 class="price-product"><a href="shop-detail.html">Alvierologistics.uz</a></h4>
+                  <h4 class="price-product"><a href="#">Alvierologistics.uz</a></h4>
                </div>
             </div>
          </div>

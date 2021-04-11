@@ -21,7 +21,7 @@
                     <h3 class="float-left">О нашей компании</h3>
                     <ul class="breadcrumb top10 bottom10 float-right">
                         <li class="breadcrumb-item hover-light">
-                            <a href="index.html">Главная</a>
+                            <a href="/">Главная</a>
                         </li>
                         <li class="breadcrumb-item hover-light">О нас</li>
                     </ul>

@@ -37,7 +37,7 @@
                     <div class="collapse navbar-collapse">
                         <ul class="navbar-nav ml-auto">
                             <!-- <li class="nav-item dropdown static">
-                                <a class="nav-link active" href="index.html" aria-haspopup="true" aria-expanded="false"> Компания </a>
+                                <a class="nav-link active" href="/" aria-haspopup="true" aria-expanded="false"> Компания </a>
                             </li> -->
                             <li class="nav-item dropdown position-relative">
                                 <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-toggle="dropdown"
@@ -49,7 +49,7 @@
                                                 <div class="col-lg-6 col-md-9 col-sm-12">
                                                     <a class="dropdown-item" href="{{ route('home') }}">Главная</a>
                                                     <a class="dropdown-item" href="{{ route('about') }}">О Нас</a>
-                                                    <a class="dropdown-item" href="{{ route('new') }}">Новости</a>
+                                                    <a class="dropdown-item" href="{{ route('news') }}">Новости</a>
                                                     <a class="dropdown-item" href="{{ route('team') }}">Наша команда</a>
                                                 </div>
                                             </div>
@@ -124,11 +124,9 @@
                             <h3 class="whitecolor bottom25">Наши сервисы</h3>
                             <ul class="links">
                                 <li><a href="">Компания</a></li>
-                                <li><a href="about.html">О Нас</a></li>
-                                <li><a href="blog-1.html">Новости</a></li>
-                                <!-- <li><a href="javascript:void(0)">Business Planning</a></li> -->
-                                <li><a href="contact.html">Контакты</a></li>
-                                <!-- <li><a href="javascript:void(0)">Privacy Policy</a></li> -->
+                                <li><a href="{{ route('about') }}">О Нас</a></li>
+                                <li><a href="#">Новости</a></li>
+                                <li><a href="{{ route('contact') }}">Контакты</a></li>
                             </ul>
                         </div>
                     </div>
