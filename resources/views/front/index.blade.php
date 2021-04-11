@@ -80,7 +80,7 @@
                 <li data-index="rs-03" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut"
                     data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="03">
                     <!-- MAIN IMAGE -->
-                    <img src="images/banner1-3.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
+                    <img src="images/banner1-3b.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
                         data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 2 -->
                     <div class="tp-caption tp-resizeme" data-x="['center','center','center','center']"
@@ -298,7 +298,7 @@
                                 </div>
                                 <div class="owl-item active" style="width: 235px;">
                                     <div class="item">
-                                        <img src="images/iphone-slide1.jpg" alt="">
+                                        <img src="images/iphone-slide1a.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="owl-item" style="width: 235px;">
@@ -313,7 +313,7 @@
                                 </div>
                                 <div class="owl-item cloned" style="width: 235px;">
                                     <div class="item">
-                                        <img src="images/iphone-slide1.jpg" alt="">
+                                        <img src="images/iphone-slide1a.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 235px;">

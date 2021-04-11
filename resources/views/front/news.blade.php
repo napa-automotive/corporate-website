@@ -74,7 +74,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="images/blog-measonry6.jpg" alt="Latest News" class="img-responsive">
+                        <img src="images/blog-image6.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">Haskell — ленивый язык

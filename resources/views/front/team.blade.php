@@ -107,7 +107,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/rez-1.jpg" alt="">
+                                <img src="images/resident-1.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Bahodir Abdusalimov </h4>
@@ -126,7 +126,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/rez-2.jpg" alt="">
+                                <img src="images/resident-2.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Sardor </h4>
@@ -145,7 +145,7 @@
                     <div class="item">
                         <div class="team-box single">
                             <div class="image">
-                                <img src="images/rez-3.jpg" alt="">
+                                <img src="images/resident-3.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Malika</h4>
@@ -164,7 +164,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/rez-4.jpg" alt="">
+                                <img src="images/resident-4.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Elbek Bakiyev</h4>
@@ -183,7 +183,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/rez-5.jpg" alt="">
+                                <img src="images/resident-5.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Xasan Abdumo'minov </h4>
@@ -202,7 +202,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/rez-6.jpg" alt="">
+                                <img src="images/resident-6.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Maftuna Zakirova</h4>
@@ -221,7 +221,7 @@
                     <!-- <div class="item">
                             <div class="team-box">
                                 <div class="image">
-                                    <img src="images/team-8.jpg" alt="">
+                                    <img src="images/team-member-8.jpg" alt="">
                                 </div>
                                 <div class="team-content">
                                     <h4 class="darkcolor">Ольга Зборовская</h4>
@@ -243,7 +243,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-1.jpg" alt="">
+                                <img src="images/team-member-1.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Jessica Twain</h4>
@@ -262,7 +262,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-2.jpg" alt="">
+                                <img src="images/team-member-2.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Jason Wudex </h4>
@@ -281,7 +281,7 @@
                     <div class="item">
                         <div class="team-box single">
                             <div class="image">
-                                <img src="images/team-3.jpg" alt="">
+                                <img src="images/team-member-3.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Jessica Twain</h4>
@@ -300,7 +300,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-4.jpg" alt="">
+                                <img src="images/team-member-4.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Hayden Wood</h4>
@@ -319,7 +319,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-1.jpg" alt="">
+                                <img src="images/team-member-1.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Shania Jackson </h4>
@@ -338,7 +338,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-2.jpg" alt="">
+                                <img src="images/team-member-2.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Jessica Twain</h4>
@@ -357,7 +357,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-3.jpg" alt="">
+                                <img src="images/team-member-3.jpg" alt="">
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Jessica Twain</h4>

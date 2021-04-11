@@ -38,7 +38,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-6 padding_bottom_half">
                 <div class="image">
-                    <img alt="SEO" src="images/aboutus.png" />
+                    <img alt="SEO" src="images/aboutus.jpg" />
                 </div>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-6 padding_bottom_half text-center text-md-left">
@@ -180,7 +180,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-1.jpg" alt="" />
+                                <img src="images/team-member-1.jpg" alt="" />
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Umid Abdusattorov</h4>
@@ -206,7 +206,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-2.jpg" alt="" />
+                                <img src="images/team-member-2.jpg" alt="" />
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Sayidazim Mahmudov</h4>
@@ -231,7 +231,7 @@
                     <div class="item">
                         <div class="team-box single">
                             <div class="image">
-                                <img src="images/team-3.jpg" alt="" />
+                                <img src="images/team-member-3.jpg" alt="" />
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Shavkat Homidov</h4>
@@ -256,7 +256,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-4.jpg" alt="" />
+                                <img src="images/team-member-4.jpg" alt="" />
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Madina Kaxxarova</h4>
@@ -281,7 +281,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-5.jpg" alt="" />
+                                <img src="images/team-member-5.jpg" alt="" />
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Bekzod Erkinov</h4>
@@ -306,7 +306,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-6.jpg" alt="" />
+                                <img src="images/team-member-6.jpg" alt="" />
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Azimjon Salimov</h4>
@@ -331,7 +331,7 @@
                     <div class="item">
                         <div class="team-box">
                             <div class="image">
-                                <img src="images/team-7.jpg" alt="" />
+                                <img src="images/team-member-7.jpg" alt="" />
                             </div>
                             <div class="team-content">
                                 <h4 class="darkcolor">Kamila Nazarova</h4>

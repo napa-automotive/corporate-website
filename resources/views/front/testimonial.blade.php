@@ -93,7 +93,7 @@
                         <p>Мы рекомендуем компанию NAPA Automotive для сотрудничества!</p>
                     </div>
                     <div class="testimonial-photo"><img alt=""
-                            src="images/122230467_3110830312376333_2102382493234645501_o.jpg"></div>
+                            src="images/kamola-alieva.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Камола Алиева</a></h4>
                     <span class="defaultcolor font-11">основатель бренда Look At Me</span>
                     <div class="icon mt-2 testimonial-icon">
@@ -118,7 +118,7 @@
                         <p class="bottom40">Lorem Ipsum is simply dummy text of the best printing and typesetting
                             industry. Lorem Ipsum has been the industry's.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/testimonial-3.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="images/testimonial-3a.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Kevin Johnson</a></h4>
                     <span class="defaultcolor font-11">Businessman</span>
                     <div class="icon mt-2 testimonial-icon">
@@ -220,7 +220,7 @@
                             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
                             unknown printer took a galley.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/testimonial-1.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="images/testimonial-1a.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Maria Lopez</a></h4>
                     <span class="defaultcolor font-11"><a href="#.">Businesswoman</a></span>
                     <div class="icon mt-2 testimonial-icon">
@@ -355,7 +355,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12 text-center">
                         <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-1.jpg" alt="">
+                            <img src="images/testimonial-1a.jpg" alt="">
                         </div>
                         <h4 class="defaultcolor font-light top15"><a href="#.">Umid Abdusattorov </a></h4>
                         <p>Napa, Tashkent </p>
@@ -395,7 +395,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12 text-center">
                         <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-3.jpg" alt="">
+                            <img src="images/testimonial-3a.jpg" alt="">
                         </div>
                         <h4 class="defaultcolor font-light top15"><a href="#.">Sayidazim Mahmudov</a></h4>
                         <p>Backend developer, Tashkent</p>
