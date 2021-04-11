@@ -41,11 +41,12 @@
                 <div class="col-md-6 col-sm-6 order-sm-2">
                     <div class="contact-meta px-2 text-center text-md-left">
                         <div class="heading-title">
-                            <span class="defaultcolor mb-3">Автоматизация бизнес-процессов</span>
+                            <span class="defaultcolor mb-3">Национальная Ассоциация по Автоматизации Процессов</span>
                             <h2 class="darkcolor font-normal mb-4"><span class="d-none d-md-inline-block">Наш</span> Главный <span class="d-none d-md-inline-block">офис</span></h2>
                         </div>
-                        <p class="bottom10">Адрес: Узбекистан, 100095, Ташкент.Алмазарский район,ул Кичик халка йули,17 в здании Туринского Политехнического Университета.</p>
-                        <p class="bottom10"><a href="mailto:polpo@traxagency.co.au">info@napaautomotive.com</a></p>
+                        <p class="bottom10">Адрес: г. Ташкент, 100047, Проспект Амира Темура 13</p>
+                        <p class="bottom10">в здании UzAuto</p>
+                        <p class="bottom10"><a href="mailto:Umid.Abdusattorov@me.com">Umid.Abdusattorov@me.com</a></p>
                         <p class="bottom10">Пн-Пт: 9am-6pm</p>
                         <ul class="social-icons mt-4 mb-4 mb-sm-0 wow fadeInUp" data-wow-delay="300ms">
                             <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
@@ -92,8 +93,8 @@
                 <div class="widget text-center top60 w-100">
                     <div class="contact-box">
                         <span class="icon-contact defaultcolor"><i class="fas fa-mobile-alt"></i></span>
-                        <p class="bottom0"><a href="tel:+998781407650,">+998 97 750-00-04 </a></p>
-                        <p class="d-block"><a href="tel:+998900050034">+998 90 005-00-34</a></p>
+                        <p class="bottom0"><a href="tel:+998781407650">+99878 140-76-50</a></p>
+                        <p class="d-block"><a href="tel:+998900050034">+99890 005-00-34</a></p>
                     </div>
                 </div>
             </div>
@@ -101,10 +102,8 @@
                 <div class="widget text-center top60 w-100">
                     <div class="contact-box">
                         <span class="icon-contact defaultcolor"><i class="fas fa-map-marker-alt"></i></span>
-                        <p class="bottom0">Ташкент
-                         </p>
-                        <p class="d-block">Алмазарский район,</p>
-                        <p class="d-block">ул Кичик халка йули,17</p>
+                        <p class="bottom0">г.Ташкент, Проспект Амира Темура 13</p>
+                        <!-- <p class="d-block">Г.Ташкент, 100095, Кичик Халка йули 17</p> -->
                     </div>
                 </div>
             </div>
@@ -112,7 +111,8 @@
                 <div class="widget text-center top60 w-100">
                     <div class="contact-box">
                         <span class="icon-contact defaultcolor"><i class="far fa-envelope"></i></span>
-                        <p class="bottom0"><a href="mailto:admin@website.com">info@napaautomotive.com  </a></p>
+                        <p class="bottom0"><a href="mailto:Umid.Abdusattorov@me.com">Umid.Abdusattorov@me.com</a></p>
+                        <p class="d-block"><a href="mailto:Umid.Abdusattorov@gmail.com">Umid.Abdusattorov@gmail.com</a></p>
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@
                 <div class="widget text-center top60 w-100">
                     <div class="contact-box">
                         <span class="icon-contact defaultcolor"><i class="far fa-clock"></i></span>
-                        <p class="bottom15">ПН-ПТ с 9 до 18:00<span class="d-block"></span></p>
+                        <p class="bottom15">UTC−05:00<span class="d-block">UTC+01:00</span></p>
                     </div>
                 </div>
             </div>

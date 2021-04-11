@@ -12,6 +12,16 @@
                 <li data-index="rs-01" data-transition="fade" data-slotamount="default" data-easein="Power100.easeIn" data-easeout="Power100.easeOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="01">
                     <!-- MAIN IMAGE -->
                     <img src="images/banner1-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-130','-130','-110','-80']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">Национальная </h1>
+                    </div>
                     <!-- LAYER NR. 2 -->
                     <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -20,7 +30,17 @@
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">Автоматизация бизнес-процессов</h1>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">Ассоциация по  </h1>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','10','40']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1500"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center"> Автоматизации Процессов</h1>
                     </div>
                     <!-- LAYER NR. 4 -->
                     <div class="tp-caption tp-resizeme"
@@ -82,6 +102,16 @@
                 <li data-index="rs-03" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="03">
                     <!-- MAIN IMAGE -->
                     <img src="images/banner1-3.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-130','-130','-110','-80']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">Национальная </h1>
+                    </div>
                     <!-- LAYER NR. 2 -->
                     <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -90,7 +120,17 @@
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">Полный спектр IT услуг </h1>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">Ассоциация по </h1>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','10','40']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1500"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">Автоматизации Процессов</h1>
                     </div>
                     <!-- LAYER NR. 4 -->
                     <div class="tp-caption tp-resizeme"
@@ -123,14 +163,15 @@
                     <div class="service-box">
                         <span class="bottom25"><i class="fa fa-clipboard"></i></span>
                         <h4 class="bottom10 text-nowrap"><a href="javascript:void(0)">Хорошо документированный</a></h4>
-                        <p>Мы создаем безопасный, хорошо документированный и надежный код для вашего сайта</p>
+                        <p>Разработка Технического задания для автоматизированных систем</p>
                     </div>
                 </div>
                 <div class="item">
                     <div class="service-box">
                         <span class="bottom25"><i class="fa fa-laptop"></i></span>
-                        <h4 class="bottom10"><a href="javascript:void(0)">Полностью отзывчивы</a></h4>
-                        <p>Благодаря слаженной работе наших специалистов, вы получите полностью отзывчивый ко всем устройствам кроссплатформенный сайт</p>
+                        <h4 class="bottom10"><a href="javascript:void(0)">Полностью отзывчивый</a></h4>
+                        <p>Внедрение комплексных программных и аппаратных IT-
+                            систем</p>
                     </div>
                 </div>
                 <div class="item">
@@ -151,7 +192,8 @@
                     <div class="service-box">
                         <span class="bottom25"><i class="fa fa-globe"></i></span>
                         <h4 class="bottom10"><a href="javascript:void(0)">SEO оптимизирован</a></h4>
-                        <p>Наши специалисты успешно оптимизируют и продвигают веб-ресурсы, которое позволит вам получить полностью SEO оптимизированный сайт</p>
+                        <p>Разработка и внедрения автоматизированных систем
+                            (BPM, ECM, CRM, ERP)</p>
                     </div>
                 </div>
             </div>
@@ -227,10 +269,11 @@
             <div class="col-lg-6 col-md-7 col-sm-12">
                 <div class="heading-title bottom30 wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">
                     <span class="defaultcolor text-center text-md-left">Технологии которые мы используем:</span>
+                    <h2 class="darkcolor font-normal text-center text-md-left">Tехнологии</h2>
                 </div>
             </div>
             <div class="col-lg-6 col-md-5 col-sm-12">
-                <p class="text-center text-md-left">Мы используем самые современные технологии для разработки программного обеспечения и организации производственного процесса</p>
+                <p class="text-center text-md-left">Мы используем самые современные технологии для sразработки программного обеспечения. </p>
             </div>
         </div>
         <div class="row d-flex align-items-center" id="app-feature">
@@ -240,10 +283,12 @@
                         <div class="icon"><i class="fas fa-cog"></i></div>
                         <div class="text">
                             <h3 class="bottom15">
-                                <span class="d-inline-block">Разработка ПО</span>
+                                <span class="d-inline-block">Параметры темы</span>
                             </h3>
-                            <p>• Набор используемых технологий весьма широк, но при этом он индивидуально подбирается с учетом потребностей каждого конкретного проекта.</p>
-                            <p>• Например, СУБД - классические MS SQL Server, Oracle и достаточно новые - MongoDB и пр., обеспечивающие надежное хранение и быстрый доступ к данным.</p>
+                            <p>СУБД - классические MS SQL Server, Oracle,
+                                PostgreSQL и достаточно новые -MongoDB и другие,
+                                обеспечивающие надежное хранение и быстрый доступ к
+                                данным.</p>
                         </div>
                     </div>
                     <div class="feature-item mt-5 wow fadeInLeft" data-wow-delay="350ms" style="visibility: visible; animation-delay: 350ms; animation-name: fadeInLeft;">
@@ -252,7 +297,7 @@
                             <h3 class="bottom15">
                                 <span class="d-inline-block">Настройка</span>
                             </h3>
-                            <p>• Используемые технологии организации
+                            <p>Используемые технологии организации
                                 производственного процесса позволяют наладить постоянный
                                 ритм производства, снизить стоимость разработки,
                                 автоматически обнаруживать дефекты</p>
@@ -296,7 +341,7 @@
                             <h3 class="bottom15">
                                 <span class="d-inline-block">Мощный Код</span>
                             </h3>
-                            <p>Для разработки сайтов и приложении - PHP, JavaScript,
+                            <p>Для разработки сайтов и приложении - PHP,
                                 Python, .NET и Java и самые современные
                                 технологии Bootstrap и React, VUE, Angular, позволяющие
                                 создавать интернет-приложения, пригодные к работе на любых
@@ -309,7 +354,9 @@
                             <h3 class="bottom15">
                                 <span class="d-inline-block">Документация </span>
                             </h3>
-                            <p>•Заказчик постоянно находится в курсе последних событий по разработке своего проекта, он может в любой момент проверить работу последних изменений, доставляемых к нему автоматически, посмотреть какие задачи по его проекту уже сделаны, а какие выполняются в настоящее время; какие документы были созданы либо изменены.</p>
+                            <p>Все это позволяет создавать высоконадежные,
+                                производительные системы, рассчитанные на самый широкой
+                                спектр применения</p>
                         </div>
                     </div>
                 </div>
@@ -352,7 +399,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <p class="heading_space mt-n3 mt-sm-0 text-center text-md-left"> Мы молодая, динамично развивающаяся компания, команда профессионалов, имеющая опыт внедрения ИТ услуг во все сферы деятельности организации. </p>
+                <p class="heading_space mt-n3 mt-sm-0 text-center text-md-left">Мы команда профессионалов, имеющая ИТ опыт в различных сферах, которая постоянно развивается и соответственно, расширяет спектр предлагаемых услуг. </p>
             </div>
         </div>
         <div class="row">

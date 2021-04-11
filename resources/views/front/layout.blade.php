@@ -96,7 +96,7 @@
                     <div class="d-table w-100 address-item whitecolor bottom25">
                         <span class="d-table-cell align-middle"><i class="fas fa-mobile-alt"></i></span>
                         <p class="d-table-cell align-middle bottom0">
-                            +998 97 750-00-04, <a class="d-block" href="mailto:umid.abdusattorov@me.com">info@napaautomotive.com</a>
+                            +99878 140-76-50, <a class="d-block" href="mailto:web@support.com">Umid.Abdusattorov@Me.Com</a>
                         </p>
                     </div>
                     <ul class="social-icons white wow fadeInUp" data-wow-delay="300ms">

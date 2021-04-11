@@ -199,7 +199,7 @@
                 <div class="shop-content text-center">
                    <h4 class="darkcolor">LMS</h4>
                    <p>Система контроля учебным процессом (LMS) для суд
-                      экспертизы</p>
+                      експертизы</p>
                    <h4 class="price-product"><a href="www.sudex.uz">www.sudex.uz</a></h4>
                 </div>
              </div>

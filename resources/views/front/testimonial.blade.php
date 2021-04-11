@@ -49,13 +49,11 @@
                 <div class="testimonial-wrapp">
                     <span class="quoted"><i class="fa fa-quote-right"></i></span>
                     <div class="testimonial-text">
-                        <p class="bottom40">Обратились в компанию NAPA Automotive для разработки онлайн учебного портала для нашего центра. В процессе работы сотрудники компании отвечали на все возникающие вопросы, предлагали оптимальные решения, и оперативно решали поставленные задачи. Отдельное спасибо руководителю компании, за ответственный подход к клиентам. Мы благодарим компанию за разработку нашего учебного портала http://www.mtsudex.uz/, был реализован весь функционал согласно по нашим пожеланиям.
-                        </p>
-                        <p>Рекомендуем компанию как надежного партнера</p>
+                        <p class="bottom40">Donec semper euismod nisi quis feugiat. Nullam finibus metus eget orci volutpat porta. Morbi quis arcu vulputate, dignissim mi ac, varius magna.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/6457111cdd6e42b.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Мурад Якубов</a></h4>
-                    <span class="defaultcolor font-11">Руководитель ИТ –отдела Республиканского судебно-экспертного центра имени Х.Сулаймановой</span>
+                    <div class="testimonial-photo"><img alt="" src="images/testimonial-1.jpg"></div>
+                    <h4 class="darkcolor"><a href="#.">David Raleway</a></h4>
+                    <span class="defaultcolor font-11">Businessman</span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
                             <li><a class="facebook" href="javascript:void(0)" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
@@ -71,13 +69,11 @@
                 <div class="testimonial-wrapp">
                     <span class="quoted"><i class="fa fa-quote-right"></i></span>
                     <div class="testimonial-text">
-                        <p class="bottom40">Благодарим компанию NAPA Automotive за качественное предоставление услуг по созданию сайтов!  За ответственный подход сотрудников компании к своей работе.  Наши клиенты и зарубежные партнеры высоко оценили сайт http://lookatme4you.com/. Ранее заказывала сайт на домене uz, но позже выяснилось, что мне нужен сайт на домене сом и ребята очень оперативно решили вопрос с трансфером домена, за что я им очень благодарна!</p>
-                       <p> Отдельное спасибо хочется выразить Алимджану Алламберганову за добросовестное исполнение своей работы и человеческое отношение.</p>
-                        <p>Мы рекомендуем компанию NAPA Automotive для сотрудничества!</p>
+                        <p class="bottom40">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/122230467_3110830312376333_2102382493234645501_o.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Камола Алиева</a></h4>
-                    <span class="defaultcolor font-11">основатель бренда Look At Me</span>
+                    <div class="testimonial-photo"><img alt="" src="images/testimonial-2.jpg"></div>
+                    <h4 class="darkcolor"><a href="#.">Jaden Loren</a></h4>
+                    <span class="defaultcolor font-11">Businesswoman</span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
                             <li><a class="facebook" href="javascript:void(0)" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
