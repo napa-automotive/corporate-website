@@ -112,7 +112,7 @@
                   <h4 class="darkcolor">веб приложение</h4>
                   <p>Платформа учета деревьев и куст для
                      "Ўзйўлкўкаламзорлаштириш"</p>
-                  <h4 class="price-product"><a href="uzyulkokalam.uz">uzyulkokalam.uz</a> </h4>
+                  <h4 class="price-product"><a href="http://uzyulkokalam.uz">uzyulkokalam.uz</a> </h4>
                </div>
             </div>
          </div>
@@ -136,7 +136,7 @@
                <div class="shop-content text-center">
                   <h4 class="darkcolor">Веб приложение</h4>
                   <p>Веб приложение для карьерного центра.</p>
-                  <h4 class="price-product"><a href="mycareer.uz">Mycareer.uz</a></h4>
+                  <h4 class="price-product"><a href="http://mycareer.uz">Mycareer.uz</a></h4>
                </div>
             </div>
          </div>
@@ -149,7 +149,7 @@
                   <h4 class="darkcolor">Веб приложение + Android.</h4>
                   <p>Система управление персоналом и оценка
                      сотрудников методом “Тайный Покупатель"</p>
-                  <h4 class="price-product"><a href="http://agent.workey.space">http://agent.workey.space</a></h4>
+                  <h4 class="price-product"><a href="http://agent.workey.space">agent.workey.space</a></h4>
                </div>
             </div>
          </div>
@@ -163,7 +163,7 @@
                      приложение + Android.</h4>
                   <p>“Fox Media” система управление учебным
                      процессом и видео контентом</p>
-                  <h4 class="price-product"><a href="demo.foxmedia.uz">demo.foxmedia.uz</a></h4>
+                  <h4 class="price-product"><a href="http://foxitmedia.uz">www.foxitmedia.uz</a></h4>
                </div>
             </div>
          </div>
@@ -190,7 +190,7 @@
                   <h4 class="darkcolor">Веб сайт</h4>
                   <p>Веб сайт для учебного центра “Ёшлар Илм
                      Маркази</p>
-                  <h4 class="price-product"><a href="www.complex.uz">www.complex.uz</a></h4>
+                  <h4 class="price-product"><a href="http://www.complex.uz">www.complex.uz</a></h4>
                </div>
             </div>
          </div>
@@ -203,7 +203,7 @@
                   <h4 class="darkcolor">LMS</h4>
                   <p>Система контроля учебным процессом (LMS) для суд
                      экспертизы</p>
-                  <h4 class="price-product"><a href="www.sudex.uz">www.sudex.uz</a></h4>
+                  <h4 class="price-product"><a href="http://mtsudex.uz">www.sudex.uz</a></h4>
                </div>
             </div>
          </div>
@@ -217,12 +217,12 @@
                   <p>Академия
                      Генеральной прокуратуры Республики
                      Узбекистан</p>
-                  <h4 class="price-product"><a href="https://new.proacademy.uz/ru">https://new.proacademy.uz/ru#</a>
+                  <h4 class="price-product"><a href="http://new.proacademy.uz/ru">new.proacademy.uz</a>
                   </h4>
                </div>
             </div>
          </div>
-         <div class="col-lg-12 col-md-12">
+         {{-- <div class="col-lg-12 col-md-12">
             <ul class="pagination justify-content-center top20 wow fadeInUp" data-wow-delay="400ms">
                <li class="page-item"><a class="page-link disabled" href="#."><i class="fa fa-angle-left"></i></a></li>
                <li class="page-item active"><a class="page-link" href="#.">1</a></li>
@@ -230,7 +230,7 @@
                <li class="page-item"><a class="page-link" href="#.">3</a></li>
                <li class="page-item"><a class="page-link" href="#."><i class="fa fa-angle-right"></i></a></li>
             </ul>
-         </div>
+         </div> --}}
       </div>
    </div>
 </section>
