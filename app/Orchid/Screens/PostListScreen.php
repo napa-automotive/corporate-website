@@ -3,7 +3,7 @@
 namespace App\Orchid\Screens;
 
 use App\Orchid\Layouts\PostListLayout;
-use App\Models\Post;
+use App\Models\Post; // #todo Has errors
 use Orchid\Screen\Actions\Link;
 use Orchid\Screen\Screen;
 

@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\FrontController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -12,16 +13,18 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-//
-//Route::get('/', function () {
+
+// Route::get('/', function () {
 //    return view('welcome');
-//});
-Route::name('home')->get('/', 'App\Http\Controllers\FrontController@index');
-Route::name('about')->get('/about', 'App\Http\Controllers\FrontController@about');
-Route::name('new')->get('/new', 'App\Http\Controllers\FrontController@new');
-Route::name('team')->get('/team', 'App\Http\Controllers\FrontController@team');
-Route::name('services')->get('/services', 'App\Http\Controllers\FrontController@services');
-Route::name('faq')->get('/faq', 'App\Http\Controllers\FrontController@faq');
-Route::name('testimonial')->get('/testimonial', 'App\Http\Controllers\FrontController@testimonial');
-Route::name('project')->get('/project', 'App\Http\Controllers\FrontController@project');
-Route::name('contact')->get('/contact', 'App\Http\Controllers\FrontController@contact');
+// });
+
+Route::get('/', [FrontController::class, 'index'])->name('home');
+
+Route::get('about', [FrontController::class, 'about'])->name('about');
+Route::get('new', [FrontController::class, 'new'])->name('new');
+Route::get('team', [FrontController::class, 'team'])->name('team');
+Route::get('services', [FrontController::class, 'services'])->name('services');
+Route::get('faq', [FrontController::class, 'faq'])->name('faq');
+Route::get('testimonial', [FrontController::class, 'testimonial'])->name('testimonial');
+Route::get('project', [FrontController::class, 'project'])->name('project');
+Route::get('contact', [FrontController::class, 'contact'])->name('contact');

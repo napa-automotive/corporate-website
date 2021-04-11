@@ -1,4 +1,4 @@
-@extends('front.layout')
+@extends('layouts.front')
 
 @section('main')
     <!--Page Header-->
@@ -29,6 +29,7 @@
         </div>
     </section>
     <!--Page Header ends -->
+
     <!-- About us -->
     <section id="aboutus" class="padding_top padding_bottom">
         <div class="container aboutus">
@@ -73,7 +74,8 @@
         </div>
     </section>
     <!-- About us ends -->
-    <!-- WOrk Process-->
+
+    <!-- Work Process-->
     <section id="our-process" class="padding bgdark">
         <div class="container">
             <div class="row">
@@ -116,6 +118,7 @@
         </div>
     </section>
     <!--WOrk Process ends-->
+
     <!-- Our Team-->
     <section id="our-team" class="padding_top half-section-alt teams-border">
         <div class="container">
@@ -251,6 +254,7 @@
         </div>
     </section>
     <!-- Our Team ends-->
+
     <!-- Partners-->
     <section id="our-partners" class="padding_top padding_bottom bglight">
         <div class="container">
@@ -294,6 +298,7 @@
         </div>
     </section>
     <!-- Partners ends-->
+
     <!-- Contact US -->
     <section id="stayconnect" class="bglight position-relative ">
         <div class="container">

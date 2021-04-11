@@ -1,4 +1,4 @@
-@extends('front.layout')
+@extends('layouts.front')
 @section('main')
 <!--Page Header-->
 <section id="main-banner-page" class="position-relative page-header testimonial-header section-nav-smooth parallax">

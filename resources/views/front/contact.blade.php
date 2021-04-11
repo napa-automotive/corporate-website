@@ -1,4 +1,4 @@
-@extends('front.layout')
+@extends('layouts.front')
 @section('main')
 <!--Page Header-->
 <section id="main-banner-page" class="position-relative page-header contact-header section-nav-smooth parallax">
@@ -25,6 +25,7 @@
     </div>
 </section>
 <!--Page Header ends -->
+
 <!-- Contact US -->
 <section id="stayconnect1" class="bglight position-relative padding noshadow">
     <div class="container whitebox">
