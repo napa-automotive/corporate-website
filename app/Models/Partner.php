@@ -11,5 +11,4 @@ use Orchid\Screen\AsSource;
 class Partner extends Model
 {
     use AsSource, Filterable, Attachable;
-
 }

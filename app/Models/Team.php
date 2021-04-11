@@ -11,5 +11,4 @@ use Orchid\Screen\AsSource;
 class Team extends Model
 {
     use AsSource, Filterable, Attachable;
-
 }

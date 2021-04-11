@@ -31,7 +31,7 @@ class FrontController extends Controller
         $teams = Team::all();
         $thoughts = Thought::all();
         $partners = Partner::all();
-        return view('front.index', ['teams'=>$teams, 'thoughts'=>$thoughts, 'partners'=>$partners]);
+        return view('front.index', ['teams' => $teams, 'thoughts' => $thoughts, 'partners' => $partners]);
     }
     /**
      * Show front about-page.
@@ -61,7 +61,7 @@ class FrontController extends Controller
     public function team()
     {
         $teams = Team::all();
-        return view('front.team', ['teams'=>$teams]);
+        return view('front.team', ['teams' => $teams]);
     }
     /**
      * Show front services-page.
@@ -71,7 +71,7 @@ class FrontController extends Controller
     public function services()
     {
         $services = Service::all();
-        return view('front.services', ['services'=>$services]);
+        return view('front.services', ['services' => $services]);
     }
     /**
      * Show front faq-page.
@@ -93,7 +93,7 @@ class FrontController extends Controller
 
         return view('front.testimonial');
     }
-        /**
+    /**
      * Show front project-page.
      *
      * @return \Illuminate\Contracts\Support\Renderable
@@ -103,7 +103,7 @@ class FrontController extends Controller
 
         return view('front.project');
     }
-        /**
+    /**
      * Show front contact-page.
      *
      * @return \Illuminate\Contracts\Support\Renderable
@@ -113,10 +113,4 @@ class FrontController extends Controller
 
         return view('front.contact');
     }
-
-
-
-
-
-
 }

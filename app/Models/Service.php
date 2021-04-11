@@ -10,5 +10,4 @@ use Orchid\Screen\AsSource;
 class Service extends Model
 {
     use AsSource, Filterable, Attachable;
-
 }

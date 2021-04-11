@@ -7,6 +7,7 @@ use Orchid\Screen\Fields\Cropper;
 use Orchid\Screen\Fields\Input;
 use Orchid\Screen\TD;
 use App\Models\Team;
+
 class TeamResource extends Resource
 {
     /**
@@ -50,8 +51,7 @@ class TeamResource extends Resource
                 ->targetRelativeUrl()
                 ->required('image')
                 ->horizontal(),
-            ];
-
+        ];
     }
 
     /**

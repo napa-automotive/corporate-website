@@ -24,9 +24,7 @@ class PlatformProvider extends OrchidServiceProvider
      */
     public function registerMainMenu(): array
     {
-        return [
-
-        ];
+        return [];
     }
 
     /**

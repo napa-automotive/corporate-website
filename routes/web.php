@@ -25,6 +25,3 @@ Route::name('faq')->get('/faq', 'App\Http\Controllers\FrontController@faq');
 Route::name('testimonial')->get('/testimonial', 'App\Http\Controllers\FrontController@testimonial');
 Route::name('project')->get('/project', 'App\Http\Controllers\FrontController@project');
 Route::name('contact')->get('/contact', 'App\Http\Controllers\FrontController@contact');
-
-
-
