@@ -796,7 +796,7 @@ jQuery($=> {
 
 
     /*Our Team*/
-    $("#ourteam-slider").owlCarousel({
+    $(".ourteam-slider").owlCarousel({
         items: 4,
         margin: 0,
         dots: false,

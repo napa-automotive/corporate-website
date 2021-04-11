@@ -1,5 +1,6 @@
 @extends('layouts.front')
 @section('main')
+
 <!--Page Header-->
 <section id="main-banner-page" class="position-relative page-header faq-header parallax section-nav-smooth">
     <div class="overlay overlay-dark opacity-8 z-index-1"></div>
@@ -34,7 +35,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center animated wow fadeIn" data-wow-delay="300ms">
-                <h2 class="heading bottom30 darkcolor font-light2">Часто задаваемые <span class="font-normal">вопросы</span>
+                <h2 class="heading bottom30 darkcolor font-light2">Часто задаваемые <span
+                        class="font-normal">вопросы</span>
                     <span class="divider-center"></span>
                 </h2>
                 <div class="col-md-8 offset-md-2">
@@ -46,7 +48,8 @@
                 <div id="accordion">
                     <div class="card">
                         <div class="card-header">
-                            <a class="card-link darkcolor" data-toggle="collapse" href="#collapseOne">Какие основных задачи решает ваш продукт/услуга для своих пользователей?</a>
+                            <a class="card-link darkcolor" data-toggle="collapse" href="#collapseOne">Какие основных
+                                задачи решает ваш продукт/услуга для своих пользователей?</a>
                         </div>
                         <div id="collapseOne" class="collapse show" data-parent="#accordion">
                             <div class="card-body">
@@ -68,30 +71,35 @@
                     </div>
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseTwo">Почему именно ваша консультация?</a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseTwo">Почему
+                                именно ваша консультация?</a>
                         </div>
                         <div id="collapseTwo" class="collapse" data-parent="#accordion">
                             <div class="card-body">
-                                <p>Мы команда профессионалов, имеющая ИТ опыт в различных сферах, которая постоянно развивается и соответственно, расширяет спектр предлагаемых услуг</p>
+                                <p>Мы команда профессионалов, имеющая ИТ опыт в различных сферах, которая постоянно
+                                    развивается и соответственно, расширяет спектр предлагаемых услуг</p>
                             </div>
                         </div>
                     </div>
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseThree">Опишите целевую аудиторию вашего продукта/услуги Кто ваши клиенты?</a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse"
+                                href="#collapseThree">Опишите целевую аудиторию вашего продукта/услуги Кто ваши
+                                клиенты?</a>
                         </div>
                         <div id="collapseThree" class="collapse" data-parent="#accordion">
                             <div class="card-body">
                                 <p>Средний малый бизнес, стартапы, крупные корпорации, холдинги и
-                                государственные компании. С другой стороны: современный
-                                молодёжь интересующийся информационными технологиями и
-                                инновациями</p>
+                                    государственные компании. С другой стороны: современный
+                                    молодёжь интересующийся информационными технологиями и
+                                    инновациями</p>
                             </div>
                         </div>
                     </div>
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseFour">Технологии </a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse"
+                                href="#collapseFour">Технологии </a>
                         </div>
                         <div id="collapseFour" class="collapse" data-parent="#accordion">
                             <div class="card-body">
@@ -121,7 +129,8 @@
                     </div>
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseFive">Проекты которые мы реализовали:</a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseFive">Проекты
+                                которые мы реализовали:</a>
                         </div>
                         <div id="collapseFive" class="collapse" data-parent="#accordion">
                             <div class="card-body">
@@ -154,11 +163,13 @@
                     </div>
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseSix">Oсновные направления деятельности </a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseSix">Oсновные
+                                направления деятельности </a>
                         </div>
                         <div id="collapseSix" class="collapse" data-parent="#accordion">
                             <div class="card-body">
-                                <p>Мы, молодая и амбициозная стартап команда, позиционируемся на рынке как системный IT интегратор,
+                                <p>Мы, молодая и амбициозная стартап команда, позиционируемся на рынке как системный IT
+                                    интегратор,
                                     занимающиеся услугами ниже :<br>
                                     1. разработка технического задания на создание автоматизированной системы<br>
                                     2. Разработка веб приложении<br>
@@ -192,7 +203,8 @@
                     </div>
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseSeven">Наши ключевые преимущества:</a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseSeven">Наши
+                                ключевые преимущества:</a>
                         </div>
                         <div id="collapseSeven" class="collapse" data-parent="#accordion">
                             <div class="card-body">
@@ -233,23 +245,27 @@
                             <div class="col-md-3 col-sm-6">
                                 <div class="form-group">
                                     <label for="userName" class="d-none"></label>
-                                    <input class="form-control" type="text" placeholder="ФИО" required id="userName" name="userName">
+                                    <input class="form-control" type="text" placeholder="ФИО" required id="userName"
+                                        name="userName">
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6">
                                 <div class="form-group">
                                     <label for="companyName" class="d-none"></label>
-                                    <input class="form-control" type="tel" placeholder="Компания"  id="companyName" name="companyName">
+                                    <input class="form-control" type="tel" placeholder="Компания" id="companyName"
+                                        name="companyName">
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6">
                                 <div class="form-group">
                                     <label for="email" class="d-none"></label>
-                                    <input class="form-control" type="email" placeholder="Email" required id="email" name="email">
+                                    <input class="form-control" type="email" placeholder="Email" required id="email"
+                                        name="email">
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6">
-                                <button type="submit" class="button gradient-btn w-100" id="submit_btn">Oтправить</button>
+                                <button type="submit" class="button gradient-btn w-100"
+                                    id="submit_btn">Oтправить</button>
                             </div>
                         </div>
                     </form>
