@@ -6,7 +6,7 @@
    <nav class="navbar navbar-expand-lg padding-nav static-nav">
       <div class="container">
          <a class="navbar-brand" href="/">
-            <img src="images/logo.png" alt="logo">
+            <img src="/images/logo.png" alt="logo">
          </a>
          <div class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto mr-auto">
@@ -106,7 +106,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="300ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/project-uzyul.jpg" alt="our project">
+                  <img src="/images/project-uzyul.jpg" alt="our project">
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">веб приложение</h4>
@@ -119,7 +119,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="400ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/alviero.jpg" alt="shop">
+                  <img src="/images/alviero.jpg" alt="shop">
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">Веб-сайт</h4>
@@ -131,7 +131,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/mycareer.jpg" alt="shop">
+                  <img src="/images/mycareer.jpg" alt="shop">
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">Веб приложение</h4>
@@ -143,7 +143,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="300ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/tayniy.jpg" alt="shop">
+                  <img src="/images/tayniy.jpg" alt="shop">
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">Веб приложение + Android.</h4>
@@ -156,7 +156,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="400ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/foxmedia.jpg" alt="shop">
+                  <img src="/images/foxmedia.jpg" alt="shop">
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">Веб
@@ -170,7 +170,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/erp.jpg" alt="shop">
+                  <img src="/images/erp.jpg" alt="shop">
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">ERP система</h4>
@@ -184,7 +184,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="300ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/reno.jpg" alt="shop">
+                  <img src="/images/reno.jpg" alt="shop">
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">Веб сайт</h4>
@@ -197,7 +197,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="300ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/sudex.jpg" alt="shop">
+                  <img src="/images/sudex.jpg" alt="shop">
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">LMS</h4>
@@ -210,7 +210,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="300ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/webportal.jpg" alt="webportal">
+                  <img src="/images/webportal.jpg" alt="webportal">
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">Интерактивный веб портал</h4>

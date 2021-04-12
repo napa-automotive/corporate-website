@@ -116,7 +116,7 @@ if ($("#map").length) {
             mapOptions);
         var marker = new google.maps.Marker({
             position: {lat: 40.7115, lng: -74.0016},
-            icon: 'images/location-pin.png', //if u want custom
+            icon: '/images/location-pin.png', //if u want custom
             animation: google.maps.Animation.DROP,
             map: map,
             title:"Trax Founder's Agency"

@@ -60,7 +60,7 @@
                         </p>
                         <p>Рекомендуем компанию как надежного партнера</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/6457111cdd6e42b.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="/images/6457111cdd6e42b.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Мурад Якубов</a></h4>
                     <span class="defaultcolor font-11">Руководитель ИТ –отдела Республиканского судебно-экспертного
                         центра имени Х.Сулаймановой</span>
@@ -93,7 +93,7 @@
                         <p>Мы рекомендуем компанию NAPA Automotive для сотрудничества!</p>
                     </div>
                     <div class="testimonial-photo"><img alt=""
-                            src="images/kamola-alieva.jpg"></div>
+                            src="/images/kamola-alieva.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Камола Алиева</a></h4>
                     <span class="defaultcolor font-11">основатель бренда Look At Me</span>
                     <div class="icon mt-2 testimonial-icon">
@@ -118,7 +118,7 @@
                         <p class="bottom40">Lorem Ipsum is simply dummy text of the best printing and typesetting
                             industry. Lorem Ipsum has been the industry's.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/testimonial-3a.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="/images/testimonial-3a.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Kevin Johnson</a></h4>
                     <span class="defaultcolor font-11">Businessman</span>
                     <div class="icon mt-2 testimonial-icon">
@@ -144,7 +144,7 @@
                             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
                             unknown printer took a galley.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/testimonial-4.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="/images/testimonial-4.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Ava Smith</a></h4>
                     <span class="defaultcolor font-11">Businesswoman</span>
                     <div class="icon mt-2 testimonial-icon">
@@ -169,7 +169,7 @@
                         <p class="bottom40">Donec semper euismod nisi quis feugiat. Nullam finibus metus eget orci
                             volutpat porta. Morbi quis arcu vulputate, dignissim mi ac, varius magna.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/testimonial-5.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="/images/testimonial-5.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Mia Lan</a></h4>
                     <span class="defaultcolor font-11">Businesswoman</span>
                     <div class="icon mt-2 testimonial-icon">
@@ -194,7 +194,7 @@
                         <p class="bottom40">Donec semper euismod nisi quis feugiat. Nullam finibus metus eget orci
                             volutpat porta. Morbi quis arcu vulputate, dignissim mi ac, varius magna.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/testimonial-6.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="/images/testimonial-6.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Cris Jones</a></h4>
                     <span class="defaultcolor font-11">Businessman</span>
                     <div class="icon mt-2 testimonial-icon">
@@ -220,7 +220,7 @@
                             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
                             unknown printer took a galley.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/testimonial-1a.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="/images/testimonial-1a.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Maria Lopez</a></h4>
                     <span class="defaultcolor font-11"><a href="#.">Businesswoman</a></span>
                     <div class="icon mt-2 testimonial-icon">
@@ -246,7 +246,7 @@
                             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
                             unknown printer took a galley.</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="images/testimonial-2.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="/images/testimonial-2.jpg"></div>
                     <h4 class="darkcolor"><a href="#.">Paul Gonzalez</a></h4>
                     <span class="defaultcolor font-11">Businessman</span>
                     <div class="icon mt-2 testimonial-icon">
@@ -299,34 +299,34 @@
             <div class="col-md-12 col-sm-12">
                 <div id="partners-slider" class="owl-carousel">
                     <div class="item">
-                        <div class="logo-item"> <img alt="" src="images/logo-1.png"></div>
+                        <div class="logo-item"> <img alt="" src="/images/logo-1.png"></div>
                     </div>
                     <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo-2.png"></div>
+                        <div class="logo-item"><img alt="" src="/images/logo-2.png"></div>
                     </div>
                     <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo-3.png"></div>
+                        <div class="logo-item"><img alt="" src="/images/logo-3.png"></div>
                     </div>
                     <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo-4.png"></div>
+                        <div class="logo-item"><img alt="" src="/images/logo-4.png"></div>
                     </div>
                     <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo-5.png"></div>
+                        <div class="logo-item"><img alt="" src="/images/logo-5.png"></div>
                     </div>
                     <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo-1.png"></div>
+                        <div class="logo-item"><img alt="" src="/images/logo-1.png"></div>
                     </div>
                     <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo-2.png"></div>
+                        <div class="logo-item"><img alt="" src="/images/logo-2.png"></div>
                     </div>
                     <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo-3.png"></div>
+                        <div class="logo-item"><img alt="" src="/images/logo-3.png"></div>
                     </div>
                     <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo-4.png"></div>
+                        <div class="logo-item"><img alt="" src="/images/logo-4.png"></div>
                     </div>
                     <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo-5.png"></div>
+                        <div class="logo-item"><img alt="" src="/images/logo-5.png"></div>
                     </div>
                 </div>
             </div>
@@ -355,7 +355,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12 text-center">
                         <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-1a.jpg" alt="">
+                            <img src="/images/testimonial-1a.jpg" alt="">
                         </div>
                         <h4 class="defaultcolor font-light top15"><a href="#.">Umid Abdusattorov </a></h4>
                         <p>Napa, Tashkent </p>
@@ -376,7 +376,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12 text-center">
                         <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-2.jpg" alt="">
+                            <img src="/images/testimonial-2.jpg" alt="">
                         </div>
                         <h4 class="defaultcolor font-light top15"><a href="#.">Hayden Wood</a></h4>
                         <p>FIVERR, Italy</p>
@@ -395,7 +395,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12 text-center">
                         <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-3a.jpg" alt="">
+                            <img src="/images/testimonial-3a.jpg" alt="">
                         </div>
                         <h4 class="defaultcolor font-light top15"><a href="#.">Sayidazim Mahmudov</a></h4>
                         <p>Backend developer, Tashkent</p>
@@ -415,7 +415,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12 text-center">
                         <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-4.jpg" alt="">
+                            <img src="/images/testimonial-4.jpg" alt="">
                         </div>
                         <h4 class="defaultcolor font-light top15"><a href="#.">Alina Johanson</a></h4>
                         <p>INTEL, Sidney</p>

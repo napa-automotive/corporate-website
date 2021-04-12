@@ -12,7 +12,7 @@
                 <li data-index="rs-01" data-transition="fade" data-slotamount="default" data-easein="Power100.easeIn"
                     data-easeout="Power100.easeOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="01">
                     <!-- MAIN IMAGE -->
-                    <img src="images/banner1-1.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
+                    <img src="/images/banner1-1.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
                         data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 2 -->
                     <div class="tp-caption tp-resizeme" data-x="['center','center','center','center']"
@@ -37,7 +37,7 @@
                 <li data-index="rs-02" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut"
                     data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="02">
                     <!-- MAIN IMAGE -->
-                    <img src="images/banner1-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
+                    <img src="/images/banner1-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
                         data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
                     <div class="tp-caption tp-resizeme" data-x="['center','center','center','center']"
@@ -80,7 +80,7 @@
                 <li data-index="rs-03" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut"
                     data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="03">
                     <!-- MAIN IMAGE -->
-                    <img src="images/banner1-3b.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
+                    <img src="/images/banner1-3b.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
                         data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 2 -->
                     <div class="tp-caption tp-resizeme" data-x="['center','center','center','center']"
@@ -179,7 +179,7 @@
                 <a href="#our-team" class="button btnsecondary gradient-btn pagescroll mb-sm-0 mb-4">Подробнее</a>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
-                <div class="image"><img alt="SEO" src="images/awesome-feature.png"></div>
+                <div class="image"><img alt="SEO" src="/images/awesome-feature.png"></div>
             </div>
         </div>
     </div>
@@ -279,7 +279,7 @@
                 <div class="app-image top30">
                     <div class="app-slider-lock-btn"></div>
                     <div class="app-slider-lock">
-                        <img src="images/iphone-slide-lock.jpg" alt="">
+                        <img src="/images/iphone-slide-lock.jpg" alt="">
                     </div>
                     <div id="app-slider" class="owl-carousel owl-theme owl-loaded owl-drag">
 
@@ -288,37 +288,37 @@
                                 style="transform: translate3d(-470px, 0px, 0px); transition: all 0s ease 0s; width: 1645px;">
                                 <div class="owl-item cloned" style="width: 235px;">
                                     <div class="item">
-                                        <img src="images/iphone-slide2.jpg" alt="">
+                                        <img src="/images/iphone-slide2.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 235px;">
                                     <div class="item">
-                                        <img src="images/iphone-slide3.jpg" alt="">
+                                        <img src="/images/iphone-slide3.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="owl-item active" style="width: 235px;">
                                     <div class="item">
-                                        <img src="images/iphone-slide1a.jpg" alt="">
+                                        <img src="/images/iphone-slide1a.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="owl-item" style="width: 235px;">
                                     <div class="item">
-                                        <img src="images/iphone-slide2.jpg" alt="">
+                                        <img src="/images/iphone-slide2.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="owl-item" style="width: 235px;">
                                     <div class="item">
-                                        <img src="images/iphone-slide3.jpg" alt="">
+                                        <img src="/images/iphone-slide3.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 235px;">
                                     <div class="item">
-                                        <img src="images/iphone-slide1a.jpg" alt="">
+                                        <img src="/images/iphone-slide1a.jpg" alt="">
                                     </div>
                                 </div>
                                 <div class="owl-item cloned" style="width: 235px;">
                                     <div class="item">
-                                        <img src="images/iphone-slide2.jpg" alt="">
+                                        <img src="/images/iphone-slide2.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -328,7 +328,7 @@
                                 class="owl-next"><span aria-label="Next">›</span></button></div>
                         <div class="owl-dots disabled"></div>
                     </div>
-                    <img src="images/iphone.png" alt="image">
+                    <img src="/images/iphone.png" alt="image">
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12">
@@ -578,7 +578,7 @@
                             <div class="testimonial-round d-inline-block">
                                 <img src="{{ $thought->image }}" alt="">
                             </div>
-                            <h4 class="defaultcolor font-light top15"><a href="">{{ $thought->name }}</a></h4>
+                            <h4 class="defaultcolor font-light top15"><a href="#">{{ $thought->name }}</a></h4>
                             <p>{{ $thought->job }} </p>
                         </div>
                         <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
