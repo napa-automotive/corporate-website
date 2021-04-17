@@ -83,7 +83,7 @@
 @include('none.our-team3')
 
 {{-- Partners --}}
-@include('none.partners')
+@include('none.partners3')
 
 {{-- Testimonials --}}
 @include('none.testimonials1')

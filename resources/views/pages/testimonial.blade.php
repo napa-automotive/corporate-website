@@ -41,5 +41,5 @@
 @include('none.testimonials2')
 
 {{-- Contact us --}}
-@include('contact-testimonial')
+@include('none.contact-testimonial')
 @endsection
