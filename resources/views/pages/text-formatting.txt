@@ -18,3 +18,4 @@ href="#"
 
 Todo:
 - remove comments
+- fill in alt=""

@@ -38,7 +38,7 @@
 @include('partials.partners')
 
 {{-- Testimonials --}}
-@include('partials.testimonials2')
+@include('partials.thoughts')
 
 {{-- Contact us --}}
 @include('partials.contact')
