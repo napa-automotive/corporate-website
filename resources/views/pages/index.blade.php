@@ -83,7 +83,7 @@
 @include('partials.our-team3')
 
 {{-- Partners --}}
-@include('partials.partners3')
+@include('partials.partners')
 
 {{-- Testimonials --}}
 @include('partials.testimonials1')

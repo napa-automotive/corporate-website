@@ -35,7 +35,7 @@
 @include('partials.stats2')
 
 {{-- Partners --}}
-@include('partials.partners2')
+@include('partials.partners')
 
 {{-- Testimonials --}}
 @include('partials.testimonials2')
