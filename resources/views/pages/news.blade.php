@@ -161,5 +161,5 @@
 </section>
 
 {{-- Contact us --}}
-@include('partials.contact-news')
+@include('partials.contact')
 @endsection

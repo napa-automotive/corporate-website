@@ -226,5 +226,5 @@
 </section>
 
 {{-- Contact us --}}
-@include('partials.contact-faq')
+@include('partials.contact')
 @endsection

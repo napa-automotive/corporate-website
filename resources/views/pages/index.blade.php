@@ -89,5 +89,5 @@
 @include('partials.testimonials1')
 
 {{-- Contact us --}}
-@include('partials.contact-home')
+@include('partials.contact')
 @endsection

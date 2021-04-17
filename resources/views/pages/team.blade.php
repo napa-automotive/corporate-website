@@ -38,5 +38,5 @@
 @include('partials.our-residents')
 
 {{-- Contact us --}}
-@include('partials.contact-team')
+@include('partials.contact')
 @endsection

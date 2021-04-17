@@ -173,5 +173,5 @@
 </section>
 
 {{-- Contact us --}}
-@include('partials.contact-project')
+@include('partials.contact')
 @endsection
