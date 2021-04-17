@@ -9,7 +9,7 @@
                     {{-- Locale --}}
                     <li class="nav-item dropdown position-relative">
                         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">{{ strtoupper(App::getLocale()) }}</a>
+                            aria-haspopup="true" aria-expanded="false">{{ strtoupper(app()->getLocale()) }}</a>
                         <ul class="dropdown-menu megamenu">
                             <li>
                                 <div class="container">

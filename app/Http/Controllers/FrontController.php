@@ -92,4 +92,19 @@ class FrontController extends Controller
     {
         return view('pages.contact');
     }
+
+    /**
+     * Change application localization
+     */
+    public function updateLocale(string $locale)
+    {
+        // Replace occurrence of the locale in URL
+        $url = str_replace(
+            session('locale'),
+            $locale,
+            url()->previous()
+        );
+
+        return redirect()->to($url);
+    }
 }

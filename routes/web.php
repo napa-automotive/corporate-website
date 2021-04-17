@@ -26,3 +26,5 @@ Route::prefix('{lang?}')->middleware('locale')->group(function () {
     Route::get('project', [FrontController::class, 'project'])->name('project');
     Route::get('contact', [FrontController::class, 'contact'])->name('contact');
 });
+
+Route::get('language/{locale}', [FrontController::class, 'updateLocale']);
