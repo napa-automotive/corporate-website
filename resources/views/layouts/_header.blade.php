@@ -2,8 +2,7 @@
     <nav class="navbar navbar-expand-lg transparent-bg static-nav">
         <div class="container">
             <a class="navbar-brand" href="/">
-                <img src="{{ asset('images/logo-transparent.png') }}" alt="logo" class="logo-default">
-                <img src="{{ asset('images/logo.png') }}" alt="logo" class="logo-scrolled">
+                <img src="{{ asset('images/logo.png') }}" alt="logo">
             </a>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
@@ -25,6 +24,7 @@
                             </li>
                         </ul>
                     </li>
+
                     <li class="nav-item dropdown position-relative">
                         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false"> {{ __('Services') }} </a>
@@ -34,7 +34,7 @@
                                     <div class="row">
                                         <div class="col-lg-6 col-md-9 col-sm-12">
                                             <a class="dropdown-item" href="{{ route('services') }}">{{ __('Services') }}</a>
-                                            <a class="dropdown-item" href="{{ route('faq')}}">{{ __('FAQs') }}</a>
+                                            <a class="dropdown-item" href="{{ route('faq') }}">{{ __('FAQs') }}</a>
                                             <a class="dropdown-item" href="{{ route('testimonial') }}">{{ __('Testimonials') }}</a>
                                         </div>
                                     </div>

@@ -1959,16 +1959,6 @@ ul.links li a::before,
     width: 180%;
 }
 
-.navbar.fixedmenu .logo-default,
-.navbar .logo-scrolled {
-    display: none;
-}
-
-.navbar.fixedmenu .logo-scrolled,
-.navbar .logo-default {
-    display: inline-block;
-}
-
 .navbar-nav .nav-item {
     position: relative;
 }
