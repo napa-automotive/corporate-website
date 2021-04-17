@@ -1,15 +1,14 @@
 <section id="our-process" class="padding bgdark">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 text-center">
-                <div class="heading-title whitecolor wow fadeInUp" data-wow-delay="300ms">
-                    <span>
-                        {{ __('The implementation of complex software and hardware IT systems includes the following stages:') }}
-                    </span>
-                    <h2 class="font-normal">{{ __('Our workflow') }}</h2>
-                </div>
+        <div class="text-center">
+            <div class="heading-title whitecolor wow fadeInUp" data-wow-delay="300ms">
+                <span>
+                    {{ __('The implementation of complex software and hardware IT systems includes the following stages:') }}
+                </span>
+                <h2 class="font-normal">{{ __('Our workflow') }}</h2>
             </div>
         </div>
+
         <div class="row">
             <ul class="process-wrapp">
                 <li class="whitecolor wow fadeIn" data-wow-delay="300ms">

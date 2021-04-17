@@ -71,7 +71,7 @@
 </section>
 
 {{-- Work Process --}}
-@include('partials.work-process2')
+@include('partials.work-process')
 
 {{-- Mobile Apps --}}
 @include('partials.our-apps')
