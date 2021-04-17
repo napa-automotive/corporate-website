@@ -32,7 +32,7 @@
 @include('partials.feedbacks')
 
 {{-- Statistics --}}
-@include('partials.stats2')
+@include('partials.stats')
 
 {{-- Partners --}}
 @include('partials.partners')

@@ -32,7 +32,7 @@
 @include('partials.our-team2')
 
 {{-- Statistics --}}
-@include('partials.stats3')
+@include('partials.stats')
 
 {{-- Our residents --}}
 @include('partials.our-residents')
