@@ -29,14 +29,14 @@
 </section>
 
 {{-- Team members --}}
-@include('none.our-team2')
+@include('partials.our-team2')
 
 {{-- Statistics --}}
-@include('none.stats3')
+@include('partials.stats3')
 
 {{-- Our residents --}}
 @include('partials.our-residents')
 
 {{-- Contact us --}}
-@include('none.contact-team')
+@include('partials.contact-team')
 @endsection

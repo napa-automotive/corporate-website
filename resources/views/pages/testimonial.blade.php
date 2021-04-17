@@ -32,14 +32,14 @@
 @include('partials.feedbacks')
 
 {{-- Statistics --}}
-@include('none.stats2')
+@include('partials.stats2')
 
 {{-- Partners --}}
-@include('none.partners2')
+@include('partials.partners2')
 
 {{-- Testimonials --}}
-@include('none.testimonials2')
+@include('partials.testimonials2')
 
 {{-- Contact us --}}
-@include('none.contact-testimonial')
+@include('partials.contact-testimonial')
 @endsection

@@ -71,7 +71,7 @@
 </section>
 
 {{-- Work Process --}}
-@include('none.work-process2')
+@include('partials.work-process2')
 
 {{-- Mobile Apps --}}
 @include('partials.our-apps')
@@ -80,14 +80,14 @@
 @include('partials.stats')
 
 {{-- Our Team --}}
-@include('none.our-team3')
+@include('partials.our-team3')
 
 {{-- Partners --}}
-@include('none.partners3')
+@include('partials.partners3')
 
 {{-- Testimonials --}}
-@include('none.testimonials1')
+@include('partials.testimonials1')
 
 {{-- Contact us --}}
-@include('none.contact-home')
+@include('partials.contact-home')
 @endsection
