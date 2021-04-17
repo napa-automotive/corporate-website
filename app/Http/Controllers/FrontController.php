@@ -98,6 +98,10 @@ class FrontController extends Controller
      */
     public function updateLocale(string $locale)
     {
+        if (!in_array($locale, config('app.locales'))) {
+            return back();
+        }
+
         // Replace occurrence of the locale in URL
         $url = str_replace(
             session('locale'),
