@@ -25,7 +25,7 @@
                         </p>
                         <p>Рекомендуем компанию как надежного партнера</p>
                     </div>
-                    <div class="testimonial-photo"><img alt="" src="/images/6457111cdd6e42b.jpg"></div>
+                    <div class="testimonial-photo"><img alt="" src="/images/murod-yoqubov.jpg"></div>
                     <h4 class="darkcolor"><a href="#">Мурад Якубов</a></h4>
                     <span class="defaultcolor font-11">
                         Руководитель ИТ –отдела Республиканского судебно-экспертного

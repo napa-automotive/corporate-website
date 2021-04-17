@@ -35,7 +35,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/blog-measonry1.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/napa-team.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">
@@ -54,7 +54,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/blog-measonry2.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/it-park.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">
@@ -113,7 +113,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/blog-measonry4.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/napa-hackaton2.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">
@@ -133,7 +133,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/blog-measonry3.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/napa-hackaton.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">Demo day</a></h3>

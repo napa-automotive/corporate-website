@@ -3124,7 +3124,7 @@ a.dropdown-toggle::after {
 }
 
 .blog-header {
-    background: url(../images/bg-blog-header.jpg) no-repeat;
+    background: url(../images/bg-blog-header-1.jpg) no-repeat;
 }
 
 .blog2-header {
@@ -3140,7 +3140,7 @@ a.dropdown-toggle::after {
 }
 
 .service-detail-header {
-    background: url(../images/bg-service-detail-header.jpg) no-repeat;
+    background: url(../images/bg-service-detail-header-1.jpg) no-repeat;
 }
 
 .contact-header {
@@ -3176,11 +3176,11 @@ a.dropdown-toggle::after {
 }
 
 .testimonial-header {
-    background: url(../images/bg-testimonial-header.jpg) no-repeat;
+    background: url(../images/bg-testimonial-header-1.jpg) no-repeat;
 }
 
 .faq-header {
-    background: url(../images/bg-faq-header.jpg) no-repeat;
+    background: url(../images/bg-faq-header-1.jpg) no-repeat;
 }
 
 .error404-header {

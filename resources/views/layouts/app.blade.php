@@ -17,7 +17,7 @@
         <link rel="stylesheet" href="{{ asset('css/cubeportfolio.min.css') }}">
         <link rel="stylesheet" href="{{ asset('css/revolution/navigation.css') }}">
         <link rel="stylesheet" href="{{ asset('css/revolution/settings.css') }}">
-        <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/style.css') }}"> {{-- Minify this style.css --}}
         
         <style>
             .left-50 {
