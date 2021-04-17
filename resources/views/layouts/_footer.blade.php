@@ -41,9 +41,9 @@
                 <div class="footer_panel padding_bottom_half bottom20">
                     <h3 class="whitecolor bottom25">{{ __('Opening hours') }}</h3>
                     <ul class="hours_links whitecolor">
-                        <li><span>{{ __('Mon-Sat:') }}</span><span>9.00-18.00</span></li>
-                        <li><span>{{ __('Friday:') }}</span><span>09:00-21:00</span></li>
-                        <li><span>{{ __('Sunday:') }}</span><span>09:00-20:00</span></li>
+                        <li><span>{{ __('Mon-Sat:') }}</span><span>09:00 - 18:00</span></li>
+                        <li><span>{{ __('Friday:') }}</span><span>09:00 - 21:00</span></li>
+                        <li><span>{{ __('Sunday:') }}</span><span>09:00 - 20:00</span></li>
                     </ul>
                 </div>
             </div>
