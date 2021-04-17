@@ -2,13 +2,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center heading_space animated wow fadeIn" data-wow-delay="300ms">
-                <h2 class="heading bottom30 darkcolor font-light2">Наша <span class="font-normal">команда</span>
+                <h2 class="heading bottom30 darkcolor font-light2">{{ __('Our team') }}</span>
                     <span class="divider-center"></span>
                 </h2>
                 <div class="col-md-8 offset-md-2">
                     <p class="mb-0">
-                        Мы молодая, динамично развивающаяся компания, команда профессионалов,
-                        имеющая опыт внедрения ИТ услуг во все сферы деятельности организации.
+                        {{ __('We are a young, dynamically developing company, a team of professionals with experience in the implementation of IT services in all areas of the organization.') }}
                     </p>
                 </div>
             </div>

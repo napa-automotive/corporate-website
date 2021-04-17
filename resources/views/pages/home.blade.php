@@ -10,38 +10,36 @@
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-clipboard"></i></span>
-                <h4 class="bottom10 text-nowrap"><a href="#">Хорошо документированный</a></h4>
-                <p>Мы создаем безопасный, хорошо документированный и надежный код для вашего сайта</p>
+                <h4 class="bottom10 text-nowrap"><a href="#">{{ __('Well documented') }}</a></h4>
+                <p>{{ __('We create safe, well-documented and reliable code for your website') }}</p>
             </div>
         </div>
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-laptop"></i></span>
-                <h4 class="bottom10"><a href="#">Полностью отзывчивы</a></h4>
-                <p>Благодаря слаженной работе наших специалистов, вы получите полностью отзывчивый ко всем
-                    устройствам кроссплатформенный сайт</p>
+                <h4 class="bottom10"><a href="#">{{ __('Fully responsive') }}</a></h4>
+                <p>{{ __('Thanks to the well-coordinated work of our specialists, you will receive a cross-platform website fully responsive to all devices.') }}</p>
             </div>
         </div>
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-globe"></i></span>
-                <h4 class="bottom10"><a href="#">Полная поддержка</a></h4>
-                <p>Техническая поддержка, Аутсорсинг и Аутстаффинг IT услуг</p>
+                <h4 class="bottom10"><a href="#">{{ __('Full support') }}</a></h4>
+                <p>{{ __('Technical support, outsourcing and outstaffing of IT services') }}</p>
             </div>
         </div>
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-edit"></i></span>
-                <h4 class="bottom10"><a href="#">Чистый код</a></h4>
-                <p>Разработки и внедрения специализированных интеграционных решений</p>
+                <h4 class="bottom10"><a href="#">{{ __('Clean code') }}</a></h4>
+                <p>{{ __('Development and implementation of specialized integration solutions') }}</p>
             </div>
         </div>
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-globe"></i></span>
-                <h4 class="bottom10"><a href="#">SEO оптимизирован</a></h4>
-                <p>Наши специалисты успешно оптимизируют и продвигают веб-ресурсы, которое позволит вам получить
-                    полностью SEO оптимизированный сайт</p>
+                <h4 class="bottom10"><a href="#">{{ __('SEO optimized') }}</a></h4>
+                <p>{{ __('Our experts successfully optimize and promote web resources, which will allow you to get a fully SEO optimized website.') }}</p>
             </div>
         </div>
     </div>
@@ -53,15 +51,17 @@
         <div class="row d-flex align-items-center">
             <div class="col-lg-6 col-md-7 col-sm-7 text-sm-left text-center wow fadeInLeft" data-wow-delay="300ms">
                 <div class="heading-title mb-4">
-                    <h2 class="darkcolor font-normal bottom30"> Поднимем ваш<span class="defaultcolor"> бизнес</span> на
-                        новый уровень</h2>
+                    <h2 class="darkcolor font-normal bottom30">
+                        {!! __('Let\'s take :html_start your business :html_end to the next level', [
+                            'html_start' => '<span class="defaultcolor">',
+                            'html_end' => '</span>'
+                        ]) !!}
                 </div>
-                <p class="bottom35">Мы команда профессионалов, имеющая ИТ опыт в различных сферах, которая постоянно
-                    развивается и соответственно, расширяет спектр предлагаемых услуг. Благодаря глубокому изучению и
-                    пониманию потребностей наших клиентов, высокой квалификации специалистов, постоянному
-                    совершенствованию своих навыков мы предлагаем свои услуги на профессиональном уровне по оптимальной
-                    цене.</p>
-                <a href="#our-team" class="button btnsecondary gradient-btn pagescroll mb-sm-0 mb-4">Подробнее</a>
+                <p class="bottom35">
+                    {{ __('We are a team of professionals with IT experience in various fields, which is constantly developing and, accordingly, expanding the range of services offered.') }}
+                    {{ __('Thanks to in-depth study and understanding of the needs of our clients, high qualifications of specialists, continuous improvement of our skills, we offer our services at a professional level at an optimal price.') }}
+                </p>
+                <a href="#our-team" class="button btnsecondary gradient-btn pagescroll mb-sm-0 mb-4">{{ __('More details') }}</a>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
                 <div class="image"><img alt="SEO" src="/images/awesome-feature.png"></div>

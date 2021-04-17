@@ -28,10 +28,10 @@ jQuery($ => {
     $('[data-toggle="tooltip"]').tooltip();
 
     //contact us
-    $("#submit_btn1 , #submit_btn").on('click', function () {
-        let userName = $('#name1').val();
-        let userEmail = $('#email1').val();
-        let userMessage = $('#message1').val();
+    $("#submit_button , #submit_btn").on('click', function () {
+        let userName = $('#fullname').val();
+        let userEmail = $('#email_address').val();
+        let userMessage = $('#message_content').val();
         let result;
         if (this.id === 'submit_btn') {
             result = $('#result');

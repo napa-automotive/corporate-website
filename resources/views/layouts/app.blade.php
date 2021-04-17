@@ -18,6 +18,12 @@
         <link rel="stylesheet" href="{{ asset('css/revolution/navigation.css') }}">
         <link rel="stylesheet" href="{{ asset('css/revolution/settings.css') }}">
         <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+        
+        <style>
+            .left-50 {
+                left: 50% !important;
+            }
+        </style>
     </head>
 
     <body>

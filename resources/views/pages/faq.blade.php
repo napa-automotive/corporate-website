@@ -1,3 +1,4 @@
+{{-- #translate --}}
 @extends('layouts.app')
 @section('main')
 
@@ -8,20 +9,20 @@
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
                 <div class="page-titles whitecolor text-center padding_top padding_bottom">
-                    <h2 class="font-xlight">Прочтите эти</h2>
-                    <h2 class="font-bold">Прежде чем спрашивать </h2>
-                    <h2 class="font-xlight">больше Вопрос</h2>
-                    <h3 class="font-light pt-2">Возможно, это решение вашей проблемы, ответ здесь</h3>
+                    <h2 class="font-xlight">{{ __('Read these') }}</h2>
+                    <h2 class="font-bold">{{ __('before asking') }}</h2>
+                    <h2 class="font-xlight">{{ __('further questions') }}</h2>
+                    <h3 class="font-light pt-2">{{ __('Maybe this is the solution to your problem, the answer is here') }}</h3>
                 </div>
             </div>
         </div>
         <div class="gradient-bg title-wrap">
             <div class="row">
                 <div class="col-lg-12 col-md-12 whitecolor">
-                    <h3 class="float-left">Часто задаваемые вопросы</h3>
+                    <h3 class="float-left">{{ __('Frequently asked questions') }}</h3>
                     <ul class="breadcrumb top10 bottom10 float-right">
-                        <li class="breadcrumb-item hover-light"><a href="/">Главная</a></li>
-                        <li class="breadcrumb-item hover-light">ЧЗВ</li>
+                        <li class="breadcrumb-item hover-light"><a href="/">{{ __('Главная') }}</a></li>
+                        <li class="breadcrumb-item hover-light">{{ __('FAQ') }}</li>
                     </ul>
                 </div>
             </div>
@@ -34,44 +35,46 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center animated wow fadeIn" data-wow-delay="300ms">
-                <h2 class="heading bottom30 darkcolor font-light2">Часто задаваемые <span
-                        class="font-normal">вопросы</span>
+                <h2 class="heading bottom30 darkcolor font-light2">
+                    {{ __('Frequently asked questions') }}
                     <span class="divider-center"></span>
                 </h2>
                 <div class="col-md-8 offset-md-2">
-                    <p class="heading_space">Вы можете найти ответы на свои вопросы здесь</p>
+                    <p class="heading_space">{{ __('You can find answers to your questions here') }}</p>
                 </div>
             </div>
-            <h2 class="d-none">Tabs</h2>
+
+            {{-- Tabs --}}
             <div class="col-md-12 col-sm-12">
                 <div id="accordion">
+                    {{-- Question 1 --}}
                     <div class="card">
                         <div class="card-header">
-                            <a class="card-link darkcolor" data-toggle="collapse" href="#collapseOne">Какие основных
-                                задачи решает ваш продукт/услуга для своих пользователей?</a>
+                            <a class="card-link darkcolor" data-toggle="collapse" href="#collapseOne">
+                                {{ __('What are the main objectives of your product / service for its users?') }}
+                            </a>
                         </div>
                         <div id="collapseOne" class="collapse show" data-parent="#accordion">
                             <div class="card-body">
-                                <p class="bottom20">Автоматизация бизнес-процессов может существенно
-                                    повысить качество управления в компании и качество ее
-                                    продукта и для предприятия в целом она дает ряд
-                                    существенных преимуществ:<br>
-                                    • Увеличение скорости обработки информации и
-                                    решения повторяющихся задач.<br>
-                                    • Повышение прозрачности бизнеса и его технологичности.<br>
-                                    • Рост согласованности действий персонала и качества
-                                    его работы.<br>
-                                    • Возможность контроля больших объемов информации.<br>
-                                    •Уменьшение количества ошибок и повышение точности
-                                    управления.
-                                </p>
+                                <div>{{ __('Automation of business processes can significantly improve the quality of management in a company and the quality of its product, and for the enterprise as a whole it provides a number of significant advantages') }}:</div>
+
+                                <ul style="padding-left:30px; list-style:disc;">
+                                    <li>{{ __('Increasing the speed of information processing and solving repetitive tasks.') }}</li>
+                                    <li>{{ __('Increasing the transparency of the business and its technological effectiveness.') }}</li>
+                                    <li>{{ __('Increased consistency of staff actions and the quality of their work.') }}</li>
+                                    <li>{{ __('The ability to control large amounts of information.') }}</li>
+                                    <li>{{ __('Reduced errors and improved control accuracy.') }}</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
+
+                    {{-- Question 2 --}}
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseTwo">Почему
-                                именно ваша консультация?</a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseTwo">
+                                {{ __('Why exactly your consultation?') }}
+                            </a>
                         </div>
                         <div id="collapseTwo" class="collapse" data-parent="#accordion">
                             <div class="card-body">
@@ -80,11 +83,13 @@
                             </div>
                         </div>
                     </div>
+
+                    {{-- Question 3 --}}
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse"
-                                href="#collapseThree">Опишите целевую аудиторию вашего продукта/услуги Кто ваши
-                                клиенты?</a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseThree">
+                                {{ __('Describe the target audience of your product / service. Who are your clients?') }}
+                            </a>
                         </div>
                         <div id="collapseThree" class="collapse" data-parent="#accordion">
                             <div class="card-body">
@@ -95,14 +100,17 @@
                             </div>
                         </div>
                     </div>
+
+                    {{-- Question 4 --}}
                     <div class="card">
                         <div class="card-header">
                             <a class="collapsed card-link darkcolor" data-toggle="collapse"
-                                href="#collapseFour">Технологии </a>
+                                href="#collapseFour">{{ __('Technologies') }}</a>
                         </div>
                         <div id="collapseFour" class="collapse" data-parent="#accordion">
                             <div class="card-body">
-                                <p>Мы используем самые современные технологии для
+                                <p>
+                                    Мы используем самые современные технологии для
                                     разработки программного обеспечения.
                                     Набор используемых технологий весьма широк, но при этом
                                     он индивидуально подбирается с учетом потребностей
@@ -126,96 +134,100 @@
                             </div>
                         </div>
                     </div>
+
+                    {{-- Question 5 --}}
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseFive">Проекты
-                                которые мы реализовали:</a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseFive">
+                                {{ __('Projects that we have implemented') }}
+                            </a>
                         </div>
                         <div id="collapseFive" class="collapse" data-parent="#accordion">
                             <div class="card-body">
-                                <p>1. Система управление персоналом и оценка сотрудников
-                                    методом “Тайный Покупател. - Веб приложение + Android.<br>
-                                    2. “Fox Media” система управление учебным процессом и
-                                    видео контентом - Веб приложение + Android. http://foxitmedia.uz/<br>
-                                    3. «MyСагеег» - Веб приложение для карьерного центра
-                                    http://napa.ioctoedu.com/<br>
-                                    4. ERP система для высших учебных на базе коробочного
-                                    версии системы http://erp.complex.uz<br>
-                                    5. Веб сайт для транспортной компании http://
-                                    alvierologistics.uz/<br>
-                                    6. Веб сайт для учебного центра “Ёшлар Илм Маркази
-                                    www.complex.uz<br>
-                                    7. Интерактивный веб портал для Академия Генеральной
-                                    прокуратуры Республики Узбекистан https://
-                                    new.proacademy.uz/ru<br>
-                                    8. Техническое задание для Агентство по развитию рынка
-                                    капитала Республики Узбекистан на разработку
-                                    многофункционалного портала<br>
-                                    9. Техническое задание для Министерство инновационного
-                                    развития Республики Узбекистан на разработку
-                                    интерактивного портала<br>
-                                    10. Техническое задание для AO “UzAuto Motors” на
-                                    производственный процесс, для модуля SCM </p>
+                                <ol style="padding-left:40px;list-style:initial;">
+                                    <li>Система управление персоналом и оценка сотрудников методом «Тайный Покупатель» - Веб приложение + Android.</li>
+                                    <li>«Fox Media» система управление учебным процессом и видео контентом - Веб приложение + Android. www.foxitmedia.uz</li>
+                                    <li>«MyСагеег» - Веб приложение для карьерного центра napa.ioctoedu.com</li>
+                                    <li>ERP система для высших учебных на базе коробочного версии системы: erp.complex.uz</li>
+                                    <li>Веб сайт для транспортной компании www.alvierologistics.uz</li>
+                                    <li>Веб сайт для учебного центра «Ёшлар Илм Маркази» www.complex.uz</li>
+                                    <li>Интерактивный веб портал для Академия Генеральной прокуратуры Республики Узбекистан: new.proacademy.uz</li>
+                                    <li>Техническое задание для Агентство по развитию рынка капитала Республики Узбекистан на разработку многофункционалного портала: attestation.uzcmda.uz</li>
+                                    <li>Техническое задание для Министерство инновационного развития Республики Узбекистан на разработку интерактивного портала</li>
+                                    <li>Техническое задание для AO «UzAuto Motors» на производственный процесс, для модуля SCM</li>
+                                </ol>
                             </div>
                         </div>
                     </div>
+
+                    {{-- Question 6 --}}
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseSix">Oсновные
-                                направления деятельности </a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseSix">
+                                {{ __('Main directions of activity') }}
+                            </a>
                         </div>
                         <div id="collapseSix" class="collapse" data-parent="#accordion">
                             <div class="card-body">
-                                <p>Мы, молодая и амбициозная стартап команда, позиционируемся на рынке как системный IT
-                                    интегратор,
-                                    занимающиеся услугами ниже :<br>
-                                    1. разработка технического задания на создание автоматизированной системы<br>
-                                    2. Разработка веб приложении<br>
-                                    3. Разработки и
-                                    внедрения специализированных интеграционных
-                                    решений<br>
-                                    4. Разработка мобильных приложений iOS/Android<br>
-                                    5. Внедрение комплексных программных и аппаратных IT- систем<br>
-                                    6. Разработка и внедрения автоматизированных систем
-                                    (BPM, ECM, CRM, ERP)<br>
-                                    7. Техническая поддержка, Аутсорсинг и Аутстаффинг IT
-                                    услуг<br>
-                                    8. разработка, внедрение и обслуживание систем «1С»<br>
-                                    9. cистема автоматизации торговли<br>
+                                <div>Мы, молодая и амбициозная стартап команда, позиционируемся на рынке как системный IT интегратор, занимающиеся услугами ниже:</div>
+
+                                <ol style="padding-left:40px;list-style:initial;">
+                                    <li>Разработка технического задания на создание автоматизированной системы</li>
+                                    <li>Разработка веб приложении</li>
+                                    <li>Разработки и внедрения специализированных интеграционных решений</li>
+                                    <li>Разработка мобильных приложений iOS/Android</li>
+                                    <li>Внедрение комплексных программных и аппаратных IT-систем</li>
+                                    <li>Разработка и внедрения автоматизированных систем (BPM, ECM, CRM, ERP)</li>
+                                    <li>Техническая поддержка, Аутсорсинг и Аутстаффинг IT услуг</li>
+                                    <li>Разработка, внедрение и обслуживание систем «1С»</li>
+                                    <li>Система автоматизации торговли</li>
+                                </ol>
+
+                                <div style="margin-top:10px;">
                                     Кроме того, мы запустили уникальный проект My Career, это
                                     Центр развития карьеры и содействия трудоустройству
                                     молодёжи.
+
                                     Центр развития карьеры и содействия трудоустройству
                                     молодёжи является структурным подразделением компании
-                                    NAPA Automotive. Одним из основных показателей качества
+                                    NAPA Automotive.
+
+                                    Одним из основных показателей качества
                                     подготовки, обучающихся в вузе является востребованность
                                     выпускников после его окончания, а также их карьерная
-                                    «траектория». В целях реализации задач, связанных с
+                                    «траектория».
+
+                                    В целях реализации задач, связанных с
                                     содействием трудоустройству выпускников и оказанием
-                                    помощи в профессиональном становлении. Туринский
-                                    Политехнический Университет совместно с NAPA Automotive
+                                    помощи в профессиональном становлении.
+
+                                    Туринский Политехнический Университет совместно с NAPA Automotive
                                     запустили проект My Career для содействия трудоустройству
-                                    выпускников вуза. </p>
+                                    выпускников вуза.
+                                </div>
                             </div>
                         </div>
                     </div>
+
+                    {{-- Question 7 --}}
                     <div class="card">
                         <div class="card-header">
-                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseSeven">Наши
-                                ключевые преимущества:</a>
+                            <a class="collapsed card-link darkcolor" data-toggle="collapse" href="#collapseSeven">
+                                {{ __('Our key strengths') }}    
+                            </a>
                         </div>
                         <div id="collapseSeven" class="collapse" data-parent="#accordion">
                             <div class="card-body">
-                                <p>Мы всегда стремимся в каждом проекте использовать
+                                <div>Мы всегда стремимся в каждом проекте использовать
                                     инноваций подход, как устойчивого конкурентного
-                                    преимущества
-                                    • Мы всегда стремимся на высокий и
-                                    стабильный уровень обслуживания<br>
-                                    • Возможность быстрой адаптации к рыночным изменениям<br>
-                                    • Концентрация всех усилий на достижении максимальной
-                                    скорости и сокращении времени исполнения услуги<br>
-                                    • Стратегия низких цен и способность ее удержать, укрепить и
-                                    развить </p>
+                                    преимущества</div>
+
+                                <ul style="padding-left:30px; list-style:disc;">
+                                    <li>Мы всегда стремимся на высокий и стабильный уровень обслуживания</li>
+                                    <li>Возможность быстрой адаптации к рыночным изменениям</li>
+                                    <li>Концентрация всех усилий на достижении максимальной скорости и сокращении времени исполнения услуги</li>
+                                    <li>Стратегия низких цен и способность ее удержать, укрепить и развить</li>
+                                </ul>
                             </div>
                         </div>
                     </div>

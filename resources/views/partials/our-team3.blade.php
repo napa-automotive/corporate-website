@@ -3,13 +3,12 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <div class="heading-title wow fadeInUp" data-wow-delay="300ms">
-                    <h2 class="darkcolor font-normal bottom30 text-center text-md-left">Наша команда</h2>
+                    <h2 class="darkcolor font-normal bottom30 text-center text-md-left">{{ __('Our team') }}</h2>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <p class="heading_space mt-n3 mt-sm-0 text-center text-md-left">
-                    Мы молодая, динамично развивающаяся компания, команда профессионалов,
-                    имеющая опыт внедрения ИТ услуг во все сферы деятельности организации.
+                    {{ __('We are a young, dynamically developing company, a team of professionals with experience in the implementation of IT services in all areas of the organization.') }}
                 </p>
             </div>
         </div>

@@ -17,7 +17,9 @@
                         data-textAlign="['center','center','center','center']" data-responsive_offset="on"
                         data-start="1000"
                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">Автоматизация бизнес-процессов</h1>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">
+                            {{ __('Business process automation') }}
+                        </h1>
                     </div>
                     <!-- LAYER NR. 4 -->
                     <div class="tp-caption tp-resizeme" data-x="['center','center','center','center']"
@@ -41,7 +43,9 @@
                         data-type="text" data-textAlign="['center','center','center','center']"
                         data-responsive_offset="on" data-start="1000"
                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-xlight blackcolor text-center">Индивидуальное </h1>
+                        <h1 class="text-capitalize font-xlight blackcolor text-center">
+                            {{ __('Individual') }}
+                        </h1>
                     </div>
                     <!-- LAYER NR. 2 -->
                     <div class="tp-caption tp-resizeme" data-x="['center','center','center','center']"
@@ -50,7 +54,9 @@
                         data-textAlign="['center','center','center','center']" data-responsive_offset="on"
                         data-start="1000"
                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold blckcolor text-center">решение для ваших</h1>
+                        <h1 class="text-capitalize font-bold blckcolor text-center">
+                            {{ __('solution for your') }}
+                        </h1>
                     </div>
                     <!-- LAYER NR. 3 -->
                     <div class="tp-caption tp-resizeme" data-x="['center','center','center','center']"
@@ -59,7 +65,9 @@
                         data-textAlign="['center','center','center','center']" data-responsive_offset="on"
                         data-start="1500"
                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-xlight blackcolor text-center">цифровых нужд</h1>
+                        <h1 class="text-capitalize font-xlight blackcolor text-center">
+                            {{ __('digital needs') }}
+                        </h1>
                     </div>
                     <!-- LAYER NR. 4 -->
                     <div class="tp-caption tp-resizeme" data-x="['center','center','center','center']"
@@ -83,7 +91,9 @@
                         data-textAlign="['center','center','center','center']" data-responsive_offset="on"
                         data-start="1000"
                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">Полный спектр IT услуг </h1>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">
+                            {{ __('Full range of IT services') }}
+                        </h1>
                     </div>
                     <!-- LAYER NR. 4 -->
                     <div class="tp-caption tp-resizeme" data-x="['center','center','center','center']"

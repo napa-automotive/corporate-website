@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-6 offset-lg-6 col-md-12 text-center text-lg-right">
                     <div class="heading-title wow fadeInUp padding_testi" data-wow-delay="300ms">
-                        <h2 class="whitecolor font-normal">Что говорят люди</h2>
+                        <h2 class="whitecolor font-normal">{{ __('What people say') }}</h2>
                     </div>
                 </div>
             </div>
@@ -26,12 +26,10 @@
 
                     <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
                         <p class="bottom15 top90">
-                            В настоящее время мы являемся партнерами-исполнителями государственного предприятия
-                            «УзАвтосаноат» по проекту «Автоматизация Бизнес процессов»
+                            {{ __('Currently, we are implementing partners of the state enterprise «UzAvtosanoat» on the project «Automation of Business Processes»') }}
                         </p>
                         <span class="d-inline-block test-star">
-                            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </span>
                     </div>
                 </div>
@@ -49,11 +47,10 @@
                     </div>
                     <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
                         <p class="bottom15 top90">
-                            Мы используем самые современные технологии для разработки программного обеспечения.
+                            {{ __('We use the most modern technologies for software development.') }}
                         </p>
                         <span class="d-inline-block test-star">
-                            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </span>
                     </div>
                 </div>
