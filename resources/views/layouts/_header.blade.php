@@ -7,7 +7,7 @@
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
                     {{-- Locale --}}
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown position-relative">
                         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">{{ strtoupper(App::getLocale()) }}</a>
                         <ul class="dropdown-menu megamenu">
@@ -25,7 +25,7 @@
                     </li>
 
                     {{-- Company --}}
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown position-relative">
                         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">{{ __('Company') }}</a>
                         <ul class="dropdown-menu megamenu">
@@ -45,7 +45,7 @@
                     </li>
 
                     {{-- Services --}}
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown position-relative">
                         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false"> {{ __('Services') }} </a>
                         <ul class="dropdown-menu megamenu">
