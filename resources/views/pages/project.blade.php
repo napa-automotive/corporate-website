@@ -162,7 +162,7 @@
                </div>
                <div class="shop-content text-center">
                   <h4 class="darkcolor">{{ __('Interactive web portal') }}</h4>
-                  <p>{{ __('Academy of the General Prosecutor\'s Office of the Republic of Uzbekistan') }}</p>
+                  <p>{{ __("Academy of the General Prosecutor's Office of the Republic of Uzbekistan") }}</p>
                   <h4 class="price-product"><a href="http://new.proacademy.uz/ru">new.proacademy.uz</a>
                   </h4>
                </div>
