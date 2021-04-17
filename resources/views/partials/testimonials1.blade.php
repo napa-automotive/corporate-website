@@ -27,8 +27,8 @@
                         <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
                             <p class="bottom15 top90">{{ $thought->description }}</p>
                             <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </span>
                         </div>
                     </div>

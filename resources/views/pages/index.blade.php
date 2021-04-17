@@ -10,14 +10,14 @@
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-clipboard"></i></span>
-                <h4 class="bottom10 text-nowrap"><a href="javascript:void(0)">Хорошо документированный</a></h4>
+                <h4 class="bottom10 text-nowrap"><a href="#">Хорошо документированный</a></h4>
                 <p>Мы создаем безопасный, хорошо документированный и надежный код для вашего сайта</p>
             </div>
         </div>
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-laptop"></i></span>
-                <h4 class="bottom10"><a href="javascript:void(0)">Полностью отзывчивы</a></h4>
+                <h4 class="bottom10"><a href="#">Полностью отзывчивы</a></h4>
                 <p>Благодаря слаженной работе наших специалистов, вы получите полностью отзывчивый ко всем
                     устройствам кроссплатформенный сайт</p>
             </div>
@@ -25,21 +25,21 @@
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-globe"></i></span>
-                <h4 class="bottom10"><a href="javascript:void(0)">Полная поддержка</a></h4>
+                <h4 class="bottom10"><a href="#">Полная поддержка</a></h4>
                 <p>Техническая поддержка, Аутсорсинг и Аутстаффинг IT услуг</p>
             </div>
         </div>
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-edit"></i></span>
-                <h4 class="bottom10"><a href="javascript:void(0)">Чистый код</a></h4>
+                <h4 class="bottom10"><a href="#">Чистый код</a></h4>
                 <p>Разработки и внедрения специализированных интеграционных решений</p>
             </div>
         </div>
         <div class="item">
             <div class="service-box">
                 <span class="bottom25"><i class="fa fa-globe"></i></span>
-                <h4 class="bottom10"><a href="javascript:void(0)">SEO оптимизирован</a></h4>
+                <h4 class="bottom10"><a href="#">SEO оптимизирован</a></h4>
                 <p>Наши специалисты успешно оптимизируют и продвигают веб-ресурсы, которое позволит вам получить
                     полностью SEO оптимизированный сайт</p>
             </div>

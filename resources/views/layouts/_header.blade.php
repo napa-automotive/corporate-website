@@ -8,7 +8,7 @@
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item dropdown position-relative">
-                        <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-toggle="dropdown"
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false"> {{ __('Company') }} </a>
                         <ul class="dropdown-menu megamenu">
                             <li>
@@ -26,7 +26,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown position-relative">
-                        <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-toggle="dropdown"
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false"> {{ __('Services') }} </a>
                         <ul class="dropdown-menu megamenu">
                             <li>

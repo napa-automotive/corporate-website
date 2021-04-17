@@ -49,7 +49,7 @@
                   <h4 class="darkcolor">веб приложение</h4>
                   <p>Платформа учета деревьев и куст для
                      "Ўзйўлкўкаламзорлаштириш"</p>
-                  <h4 class="price-product"><a href="http://uzyulkokalam.uz">uzyulkokalam.uz</a> </h4>
+                  <h4 class="price-product"><a href="http://uzyulkokalam.uz">uzyulkokalam.uz</a></h4>
                </div>
             </div>
          </div>
@@ -161,11 +161,11 @@
          </div>
          {{-- <div class="col-lg-12 col-md-12">
             <ul class="pagination justify-content-center top20 wow fadeInUp" data-wow-delay="400ms">
-               <li class="page-item"><a class="page-link disabled" href="#."><i class="fa fa-angle-left"></i></a></li>
-               <li class="page-item active"><a class="page-link" href="#.">1</a></li>
-               <li class="page-item"><a class="page-link" href="#.">2</a></li>
-               <li class="page-item"><a class="page-link" href="#.">3</a></li>
-               <li class="page-item"><a class="page-link" href="#."><i class="fa fa-angle-right"></i></a></li>
+               <li class="page-item"><a class="page-link disabled" href="#"><i class="fa fa-angle-left"></i></a></li>
+               <li class="page-item active"><a class="page-link" href="#">1</a></li>
+               <li class="page-item"><a class="page-link" href="#">2</a></li>
+               <li class="page-item"><a class="page-link" href="#">3</a></li>
+               <li class="page-item"><a class="page-link" href="#"><i class="fa fa-angle-right"></i></a></li>
             </ul>
          </div> --}}
       </div>

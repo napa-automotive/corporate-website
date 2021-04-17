@@ -27,18 +27,18 @@
                         <p>Рекомендуем компанию как надежного партнера</p>
                     </div>
                     <div class="testimonial-photo"><img alt="" src="/images/6457111cdd6e42b.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Мурад Якубов</a></h4>
+                    <h4 class="darkcolor"><a href="#">Мурад Якубов</a></h4>
                     <span class="defaultcolor font-11">Руководитель ИТ –отдела Республиканского судебно-экспертного
                         центра имени Х.Сулаймановой</span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
-                            <li><a class="facebook" href="javascript:void(0)" title="Facebook">
+                            <li><a class="facebook" href="#" title="Facebook">
                                 <i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)" title="Twitter">
+                            <li><a class="twitter" href="#" title="Twitter">
                                 <i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)" title="Instagram">
+                            <li><a class="insta" href="#" title="Instagram">
                                 <i class="fab fa-instagram"></i></a></li>
-                            <li><a class="whatsapp" href="javascript:void(0)" title="Whatsapp">
+                            <li><a class="whatsapp" href="#" title="Whatsapp">
                                 <i class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
@@ -60,17 +60,17 @@
                     </div>
                     <div class="testimonial-photo"><img alt=""
                             src="/images/kamola-alieva.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Камола Алиева</a></h4>
+                    <h4 class="darkcolor"><a href="#">Камола Алиева</a></h4>
                     <span class="defaultcolor font-11">основатель бренда Look At Me</span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
-                            <li><a class="facebook" href="javascript:void(0)" title="Facebook"><i
+                            <li><a class="facebook" href="#" title="Facebook"><i
                                         class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)" title="Twitter"><i
+                            <li><a class="twitter" href="#" title="Twitter"><i
                                         class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)" title="Instagram"><i
+                            <li><a class="insta" href="#" title="Instagram"><i
                                         class="fab fa-instagram"></i></a></li>
-                            <li><a class="whatsapp" href="javascript:void(0)" title="Whatsapp"><i
+                            <li><a class="whatsapp" href="#" title="Whatsapp"><i
                                         class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
@@ -85,17 +85,17 @@
                             industry. Lorem Ipsum has been the industry's.</p>
                     </div>
                     <div class="testimonial-photo"><img alt="" src="/images/testimonial-3a.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Kevin Johnson</a></h4>
+                    <h4 class="darkcolor"><a href="#">Kevin Johnson</a></h4>
                     <span class="defaultcolor font-11">Businessman</span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
-                            <li><a class="facebook" href="javascript:void(0)" title="Facebook"><i
+                            <li><a class="facebook" href="#" title="Facebook"><i
                                         class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)" title="Twitter"><i
+                            <li><a class="twitter" href="#" title="Twitter"><i
                                         class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)" title="Instagram"><i
+                            <li><a class="insta" href="#" title="Instagram"><i
                                         class="fab fa-instagram"></i></a></li>
-                            <li><a class="whatsapp" href="javascript:void(0)" title="Whatsapp"><i
+                            <li><a class="whatsapp" href="#" title="Whatsapp"><i
                                         class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
@@ -111,17 +111,17 @@
                             unknown printer took a galley.</p>
                     </div>
                     <div class="testimonial-photo"><img alt="" src="/images/testimonial-4.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Ava Smith</a></h4>
+                    <h4 class="darkcolor"><a href="#">Ava Smith</a></h4>
                     <span class="defaultcolor font-11">Businesswoman</span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
-                            <li><a class="facebook" href="javascript:void(0)" title="Facebook"><i
+                            <li><a class="facebook" href="#" title="Facebook"><i
                                         class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)" title="Twitter"><i
+                            <li><a class="twitter" href="#" title="Twitter"><i
                                         class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)" title="Instagram"><i
+                            <li><a class="insta" href="#" title="Instagram"><i
                                         class="fab fa-instagram"></i></a></li>
-                            <li><a class="whatsapp" href="javascript:void(0)" title="Whatsapp"><i
+                            <li><a class="whatsapp" href="#" title="Whatsapp"><i
                                         class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
@@ -136,17 +136,17 @@
                             volutpat porta. Morbi quis arcu vulputate, dignissim mi ac, varius magna.</p>
                     </div>
                     <div class="testimonial-photo"><img alt="" src="/images/testimonial-5.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Mia Lan</a></h4>
+                    <h4 class="darkcolor"><a href="#">Mia Lan</a></h4>
                     <span class="defaultcolor font-11">Businesswoman</span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
-                            <li><a class="facebook" href="javascript:void(0)" title="Facebook"><i
+                            <li><a class="facebook" href="#" title="Facebook"><i
                                         class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)" title="Twitter"><i
+                            <li><a class="twitter" href="#" title="Twitter"><i
                                         class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)" title="Instagram"><i
+                            <li><a class="insta" href="#" title="Instagram"><i
                                         class="fab fa-instagram"></i></a></li>
-                            <li><a class="whatsapp" href="javascript:void(0)" title="Whatsapp"><i
+                            <li><a class="whatsapp" href="#" title="Whatsapp"><i
                                         class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
@@ -161,17 +161,17 @@
                             volutpat porta. Morbi quis arcu vulputate, dignissim mi ac, varius magna.</p>
                     </div>
                     <div class="testimonial-photo"><img alt="" src="/images/testimonial-6.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Cris Jones</a></h4>
+                    <h4 class="darkcolor"><a href="#">Cris Jones</a></h4>
                     <span class="defaultcolor font-11">Businessman</span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
-                            <li><a class="facebook" href="javascript:void(0)" title="Facebook"><i
+                            <li><a class="facebook" href="#" title="Facebook"><i
                                         class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)" title="Twitter"><i
+                            <li><a class="twitter" href="#" title="Twitter"><i
                                         class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)" title="Instagram"><i
+                            <li><a class="insta" href="#" title="Instagram"><i
                                         class="fab fa-instagram"></i></a></li>
-                            <li><a class="whatsapp" href="javascript:void(0)" title="Whatsapp"><i
+                            <li><a class="whatsapp" href="#" title="Whatsapp"><i
                                         class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
@@ -187,17 +187,17 @@
                             unknown printer took a galley.</p>
                     </div>
                     <div class="testimonial-photo"><img alt="" src="/images/testimonial-1a.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Maria Lopez</a></h4>
-                    <span class="defaultcolor font-11"><a href="#.">Businesswoman</a></span>
+                    <h4 class="darkcolor"><a href="#">Maria Lopez</a></h4>
+                    <span class="defaultcolor font-11"><a href="#">Businesswoman</a></span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
-                            <li><a class="facebook" href="javascript:void(0)" title="Facebook">
+                            <li><a class="facebook" href="#" title="Facebook">
                                 <i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)" title="Twitter">
+                            <li><a class="twitter" href="#" title="Twitter">
                                 <i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)" title="Instagram">
+                            <li><a class="insta" href="#" title="Instagram">
                                 <i class="fab fa-instagram"></i></a></li>
-                            <li><a class="whatsapp" href="javascript:void(0)" title="Whatsapp">
+                            <li><a class="whatsapp" href="#" title="Whatsapp">
                                 <i class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
@@ -213,17 +213,17 @@
                             unknown printer took a galley.</p>
                     </div>
                     <div class="testimonial-photo"><img alt="" src="/images/testimonial-2.jpg"></div>
-                    <h4 class="darkcolor"><a href="#.">Paul Gonzalez</a></h4>
+                    <h4 class="darkcolor"><a href="#">Paul Gonzalez</a></h4>
                     <span class="defaultcolor font-11">Businessman</span>
                     <div class="icon mt-2 testimonial-icon">
                         <ul class="social-icons black">
-                            <li><a class="facebook" href="javascript:void(0)" title="Facebook">
+                            <li><a class="facebook" href="#" title="Facebook">
                                 <i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)" title="Twitter">
+                            <li><a class="twitter" href="#" title="Twitter">
                                 <i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)" title="Instagram">
+                            <li><a class="insta" href="#" title="Instagram">
                                 <i class="fab fa-instagram"></i></a></li>
-                            <li><a class="whatsapp" href="javascript:void(0)" title="Whatsapp">
+                            <li><a class="whatsapp" href="#" title="Whatsapp">
                                 <i class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>

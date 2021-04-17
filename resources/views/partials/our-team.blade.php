@@ -27,9 +27,9 @@
                         <h4 class="darkcolor">Umid Abdusattorov</h4>
                         <p>CEO</p>
                         <ul class="social-icons-simple">
-                            <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -45,9 +45,9 @@
                         <h4 class="darkcolor">Sayidazim Mahmudov</h4>
                         <p>PHP Backend developer</p>
                         <ul class="social-icons-simple">
-                            <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -63,9 +63,9 @@
                         <h4 class="darkcolor">Shavkat Homidov</h4>
                         <p>Project architecture</p>
                         <ul class="social-icons-simple">
-                            <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -81,9 +81,9 @@
                         <h4 class="darkcolor">Madina Kaxxarova</h4>
                         <p>Product owner</p>
                         <ul class="social-icons-simple">
-                            <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -99,9 +99,9 @@
                         <h4 class="darkcolor">Bekzod Erkinov</h4>
                         <p>Backend Developer</p>
                         <ul class="social-icons-simple">
-                            <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -117,9 +117,9 @@
                         <h4 class="darkcolor">Azimjon Salimov</h4>
                         <p>Android developer</p>
                         <ul class="social-icons-simple">
-                            <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -135,9 +135,9 @@
                         <h4 class="darkcolor">Kamila Nazarova</h4>
                         <p>Android developer</p>
                         <ul class="social-icons-simple">
-                            <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>

@@ -1372,7 +1372,7 @@ jQuery($ => {
                 hide_onleave: true,
                 hide_delay: 200,
                 hide_delay_mobile: 1200,
-                tmp: '<div class="tp-title-wrap"> <div class="tp-arr-imgholder"></div> </div>',
+                tmp: '<div class="tp-title-wrap"><div class="tp-arr-imgholder"></div></div>',
                 left: {
                     h_align: "left",
                     v_align: "center",

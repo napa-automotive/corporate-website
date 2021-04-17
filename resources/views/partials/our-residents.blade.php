@@ -16,11 +16,11 @@
                                 <h4 class="darkcolor">Bahodir Abdusalimov </h4>
                                 <p>Frontend developer</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -35,11 +35,11 @@
                                 <h4 class="darkcolor">Sardor </h4>
                                 <p>Php Backend developer</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -54,11 +54,11 @@
                                 <h4 class="darkcolor">Malika</h4>
                                 <p>SMM</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -73,11 +73,11 @@
                                 <h4 class="darkcolor">Elbek Bakiyev</h4>
                                 <p>React Frontend developer</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -92,11 +92,11 @@
                                 <h4 class="darkcolor">Xasan Abdumo'minov </h4>
                                 <p>Print Media</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -111,11 +111,11 @@
                                 <h4 class="darkcolor">Maftuna Zakirova</h4>
                                 <p>IOS developer</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -130,9 +130,9 @@
                                 <h4 class="darkcolor">Ольга Зборовская</h4>
                                 <p>HR manager</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -152,11 +152,11 @@
                                 <h4 class="darkcolor">Jessica Twain</h4>
                                 <p>Agency Owner</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -171,11 +171,11 @@
                                 <h4 class="darkcolor">Jason Wudex </h4>
                                 <p>Designer</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -190,11 +190,11 @@
                                 <h4 class="darkcolor">Jessica Twain</h4>
                                 <p>Agency Owner</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -209,11 +209,11 @@
                                 <h4 class="darkcolor">Hayden Wood</h4>
                                 <p>Marketing</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -228,11 +228,11 @@
                                 <h4 class="darkcolor">Shania Jackson </h4>
                                 <p>Print Media</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -247,11 +247,11 @@
                                 <h4 class="darkcolor">Jessica Twain</h4>
                                 <p>Agency Owner</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -266,11 +266,11 @@
                                 <h4 class="darkcolor">Jessica Twain</h4>
                                 <p>Agency Owner</p>
                                 <ul class="social-icons-simple">
-                                    <li><a class="facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"></i>
-                                        </a> </li>
-                                    <li><a class="twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i> </a>
+                                    <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i>
+                                        </a></li>
+                                    <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a>
                                     </li>
-                                    <li><a class="insta" href="javascript:void(0)"><i class="fab fa-instagram"></i> </a>
+                                    <li><a class="insta" href="#"><i class="fab fa-instagram"></i></a>
                                     </li>
                                 </ul>
                             </div>

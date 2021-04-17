@@ -20,7 +20,7 @@
                         <div class="testimonial-round d-inline-block">
                             <img src="/images/testimonial-1a.jpg" alt="">
                         </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Umid Abdusattorov </a></h4>
+                        <h4 class="defaultcolor font-light top15"><a href="#">Umid Abdusattorov </a></h4>
                         <p>Napa, Tashkent </p>
                     </div>
                     <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
@@ -28,8 +28,8 @@
                             государственного&nbsp; предприятия «Уз Авто Саноат» по проекту «Автоматизация Бизнес
                             процессов»</p>
                         <span class="d-inline-block test-star">
-                            <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i> <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </span>
                     </div>
                 </div>
@@ -41,15 +41,15 @@
                         <div class="testimonial-round d-inline-block">
                             <img src="/images/testimonial-3a.jpg" alt="">
                         </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Sayidazim Mahmudov</a></h4>
+                        <h4 class="defaultcolor font-light top15"><a href="#">Sayidazim Mahmudov</a></h4>
                         <p>Backend developer, Tashkent</p>
                     </div>
                     <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
                         <p class="bottom15 top90">Мы используем самые современные технологии для разработки программного
                             обеспечения.</p>
                         <span class="d-inline-block test-star">
-                            <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i> <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </span>
                     </div>
                 </div>

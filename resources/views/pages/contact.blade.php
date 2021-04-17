@@ -55,9 +55,10 @@
                         <p class="bottom10"><a href="info@napaautomotive.com">info@napaautomotive.com</a></p>
                         <p class="bottom10">Пн-Пт: 9am-6pm</p>
                         <ul class="social-icons mt-4 mb-4 mb-sm-0 wow fadeInUp" data-wow-delay="300ms">
-                            <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                            <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="fab fa-telegram"></i></a> </li>
+                            {{-- #todo Provide social network links --}}
+                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="#"><i class="fab fa-telegram"></i></a></li>
                         </ul>
                     </div>
                 </div>
