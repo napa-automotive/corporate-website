@@ -1,7 +1,7 @@
-@extends('layouts.front')
+@extends('layouts.app')
 @section('main')
 
-<!--Page Header-->
+{{-- Banner --}}
 <section id="main-banner-page" class="position-relative page-header service-header section-nav-smooth parallax">
     <div class="overlay overlay-dark opacity-7 z-index-1"></div>
     <div class="container">
@@ -11,7 +11,6 @@
                     <h2 class="font-xlight pt-3">Поднимите</h2>
                     <h2 class="font-bold"> ваш бизнес</h2>
                     <h2 class="font-xlight">на новый уровень</h2>
-                    <!-- <h3 class="font-light pb-4 pt-2">Napa automotive</h3> -->
                 </div>
             </div>
         </div>
@@ -28,8 +27,8 @@
         </div>
     </div>
 </section>
-<!--Page Header ends -->
-<!-- Services us -->
+
+{{-- Our Services --}}
 <section id="our-services" class="padding bglight">
     <div class="container">
         <div class="col-md-12 text-center heading_space wow fadeIn" data-wow-delay="300ms">
@@ -162,53 +161,7 @@
         </div>
     </div>
 </section>
-<!-- Services us ends -->
-<!-- Contact US -->
-<section id="stayconnect" class="bglight position-relative ">
-    <div class="container">
-        <div class="contactus-wrapp">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="heading-title wow fadeInUp text-center text-md-left" data-wow-delay="300ms">
-                        <h3 class="darkcolor bottom20">Оставайтесь на связи</h3>
-                    </div>
-                </div>
-                <div class="col-md-12 col-sm-12">
-                    <form class="getin_form wow fadeInUp" data-wow-delay="400ms" onsubmit="return false;">
-                        <div class="row">
-                            <div class="col-md-12 col-sm-12" id="result"></div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="userName" class="d-none"></label>
-                                    <input class="form-control" type="text" placeholder="ФИО" required id="userName"
-                                        name="userName">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="companyName" class="d-none"></label>
-                                    <input class="form-control" type="tel" placeholder="Компания" id="companyName"
-                                        name="companyName">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="email" class="d-none"></label>
-                                    <input class="form-control" type="email" placeholder="Email" required id="email"
-                                        name="email">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <button type="submit" class="button gradient-btn w-100"
-                                    id="submit_btn">Oтправить</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Contact US ends -->
-<!--Site Footer Here-->
+
+{{-- Contact us --}}
+@include('none.contact-service')
 @endsection

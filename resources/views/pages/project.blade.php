@@ -1,69 +1,7 @@
-@extends('layouts.front')
+@extends('layouts.app')
 @section('main')
 
-<!-- header -->
-<header class="site-header">
-   <nav class="navbar navbar-expand-lg padding-nav static-nav">
-      <div class="container">
-         <a class="navbar-brand" href="/">
-            <img src="/images/logo.png" alt="logo">
-         </a>
-         <div class="collapse navbar-collapse">
-            <ul class="navbar-nav ml-auto mr-auto">
-               <li class="nav-item dropdown position-relative">
-                  <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-toggle="dropdown"
-                     aria-haspopup="true" aria-expanded="false"> Компания </a>
-                  <ul class="dropdown-menu megamenu">
-                     <li>
-                        <div class="container">
-                           <div class="row">
-                              <div class="col-lg-6 col-md-9 col-sm-12">
-                                 <a class="dropdown-item" href="/">Главная</a>
-                                 <a class="dropdown-item active" href="{{ route('about') }}">О Нас</a>
-                                 <a class="dropdown-item" href="#">Новости</a>
-                                 <a class="dropdown-item" href="{{ route('team') }}">Наша команда</a>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                  </ul>
-               </li>
-               <li class="nav-item dropdown position-relative">
-                  <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-toggle="dropdown"
-                     aria-haspopup="true" aria-expanded="false">Услуги </a>
-                  <ul class="dropdown-menu megamenu">
-                     <li>
-                        <div class="container">
-                           <div class="row">
-                              <div class="col-lg-6 col-md-9 col-sm-12">
-                                 <a class="dropdown-item" href="{{ route('services') }}">Услуги</a>
-                                 <a class="dropdown-item" href="{{ route('faq') }}">FAQ's</a>
-                                 <a class="dropdown-item" href="{{ route('testimonial') }}">Отзывы</a>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                  </ul>
-               </li>
-               <li class="nav-item  position-relative">
-                  <a class="nav-link" href="{{ route('project') }}" aria-haspopup="true" aria-expanded="false"> Проекты </a>
-               </li>
-               <li class="nav-item">
-                  <a class="nav-link" href="{{ route('contact') }}">Контакты</a>
-               </li>
-
-            </ul>
-         </div>
-         <ul class="social-icons social-icons-simple d-lg-inline-block d-none animated fadeInUp" data-wow-delay="300ms">
-            <li><a href="https://www.facebook.com/NapaAutomotive"><i class="fab fa-facebook-f"></i> </a> </li>
-            <li><a href="https://www.instagram.com/napa_automotive/?hl=ru"><i class="fab fa-instagram"></i> </a> </li>
-            <li><a href="https://youtube.com/channel/UC8Q8q_I258NsrU3jq_6MzmQ"><i class="fab fa-youtube"></i> </a> </li>
-         </ul>
-      </div>
-   </nav>
-</header>
-<!-- header -->
-<!--Page Header-->
+{{-- Banner --}}
 <section id="main-banner-page" class="position-relative page-header shop-header section-nav-smooth parallax">
    <div class="overlay overlay-dark opacity-6 z-index-1"></div>
    <div class="container">
@@ -73,7 +11,6 @@
                <h2 class="font-xlight">Первый системный </h2>
                <h2 class="font-bold">IT интегратор </h2>
                <h2 class="font-xlight">Napa Automotive</h2>
-               <!-- <h3 class="font-light pt-2">The Best Multipurpose Creative & Parallax Template</h3> -->
             </div>
          </div>
       </div>
@@ -90,8 +27,8 @@
       </div>
    </div>
 </section>
-<!--Page Header ends -->
-<!--Shopping-->
+
+{{-- Projects --}}
 <section id="our-shop" class="padding">
    <div class="container">
       <div class="row">
@@ -234,51 +171,7 @@
       </div>
    </div>
 </section>
-<!--Shopping ends-->
-<!-- Contact US -->
-<section id="stayconnect" class="bglight position-relative ">
-   <div class="container">
-      <div class="contactus-wrapp">
-         <div class="row">
-            <div class="col-md-12 col-sm-12">
-               <div class="heading-title wow fadeInUp text-center text-md-left" data-wow-delay="300ms">
-                  <h3 class="darkcolor bottom20">Оставайтесь на связи</h3>
-               </div>
-            </div>
-            <div class="col-md-12 col-sm-12">
-               <form class="getin_form wow fadeInUp" data-wow-delay="400ms" onsubmit="return false;">
-                  <div class="row">
-                     <div class="col-md-12 col-sm-12" id="result"></div>
-                     <div class="col-md-3 col-sm-6">
-                        <div class="form-group">
-                           <label for="userName" class="d-none"></label>
-                           <input class="form-control" type="text" placeholder="ФИО" required id="userName"
-                              name="userName">
-                        </div>
-                     </div>
-                     <div class="col-md-3 col-sm-6">
-                        <div class="form-group">
-                           <label for="companyName" class="d-none"></label>
-                           <input class="form-control" type="tel" placeholder="Компания" id="companyName"
-                              name="companyName">
-                        </div>
-                     </div>
-                     <div class="col-md-3 col-sm-6">
-                        <div class="form-group">
-                           <label for="email" class="d-none"></label>
-                           <input class="form-control" type="email" placeholder="Email" required id="email"
-                              name="email">
-                        </div>
-                     </div>
-                     <div class="col-md-3 col-sm-6">
-                        <button type="submit" class="button gradient-btn w-100" id="submit_btn">Oтправить</button>
-                     </div>
-                  </div>
-               </form>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!-- Contact US ends -->
+
+{{-- Contact us --}}
+@include('none.contact-project')
 @endsection

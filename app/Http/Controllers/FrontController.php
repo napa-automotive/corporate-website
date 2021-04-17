@@ -29,7 +29,8 @@ class FrontController extends Controller
         $teams = Team::all();
         $thoughts = Thought::all();
         $partners = Partner::all();
-        return view('front.index', ['teams' => $teams, 'thoughts' => $thoughts, 'partners' => $partners]);
+
+        return view('pages.index', ['teams' => $teams, 'thoughts' => $thoughts, 'partners' => $partners]);
     }
 
     /**
@@ -37,7 +38,7 @@ class FrontController extends Controller
      */
     public function about()
     {
-        return view('front.about');
+        return view('pages.about');
     }
 
     /**
@@ -45,7 +46,7 @@ class FrontController extends Controller
      */
     public function news()
     {
-        return view('front.news');
+        return view('pages.news');
     }
 
     /**
@@ -54,7 +55,7 @@ class FrontController extends Controller
     public function team()
     {
         $teams = Team::all();
-        return view('front.team', ['teams' => $teams]);
+        return view('pages.team', ['teams' => $teams]);
     }
 
     /**
@@ -63,7 +64,7 @@ class FrontController extends Controller
     public function services()
     {
         $services = Service::all();
-        return view('front.services', ['services' => $services]);
+        return view('pages.services', ['services' => $services]);
     }
 
     /**
@@ -71,7 +72,7 @@ class FrontController extends Controller
      */
     public function faq()
     {
-        return view('front.faq');
+        return view('pages.faq');
     }
 
     /**
@@ -79,7 +80,7 @@ class FrontController extends Controller
      */
     public function testimonial()
     {
-        return view('front.testimonial');
+        return view('pages.testimonial');
     }
 
     /**
@@ -87,7 +88,7 @@ class FrontController extends Controller
      */
     public function project()
     {
-        return view('front.project');
+        return view('pages.project');
     }
 
     /**
@@ -95,6 +96,6 @@ class FrontController extends Controller
      */
     public function contact()
     {
-        return view('front.contact');
+        return view('pages.contact');
     }
 }

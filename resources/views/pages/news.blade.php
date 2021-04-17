@@ -1,7 +1,7 @@
-@extends('layouts.front')
+@extends('layouts.app')
 @section('main')
 
-<!--Page Header-->
+{{-- Banner --}}
 <section id="main-banner-page" class="position-relative page-header blog-header parallax section-nav-smooth">
     <div class="overlay overlay-dark opacity-7 z-index-1"></div>
     <div class="container">
@@ -9,9 +9,6 @@
             <div class="col-lg-8 offset-lg-2">
                 <div class="page-titles whitecolor text-center padding_top padding_bottom">
                     <h1 class="font-bold">Новости</h1>
-                    <!-- <h2 class="font-bold">The Job Free Income</h2>
-                        <h2 class="font-xlight">With Blog</h2>
-                        <h3 class="font-light pt-2">The Best Multipurpose Template in Market</h3> -->
                 </div>
             </div>
         </div>
@@ -28,8 +25,8 @@
         </div>
     </div>
 </section>
-<!--Page Header ends -->
-<!-- Our Blogs -->
+
+{{-- Our Blogs --}}
 <section id="our-blog" class="bglight padding">
     <div class="container">
         <div id="blog-measonry" class="cbp">
@@ -43,7 +40,6 @@
                                 компаний «NAPA TEAM»</a></h3>
                         <ul class="meta-tags top20 bottom20">
                             <li><a href="#."><i class="fas fa-calendar-alt"></i>Feb 14</a></li>
-                            <!-- <li><a href="#."> <i class="far fa-user"></i> Peter </a></li> -->
                             <li><a href="#."><i class="far fa-comment-dots"></i>8</a></li>
                         </ul>
                         <p class="bottom35">Наша компания входит в группу компаний «NAPA TEAM» основной деятельностью
@@ -62,7 +58,6 @@
                                 резидентом ITPark</a></h3>
                         <ul class="meta-tags top20 bottom20">
                             <li><a href="#."><i class="fas fa-calendar-alt"></i>Sep 16</a></li>
-                            <!-- <li><a href="#."> <i class="far fa-user"></i> John </a></li> -->
                             <li><a href="#."><i class="far fa-comment-dots"></i>17 </a></li>
                         </ul>
                         <p class="bottom35">В январе 2020 года ООО «NAPA AUTOMOTIVE» стала резидентом ITPark Узбекистана
@@ -81,7 +76,6 @@
                                 программирования</a></h3>
                         <ul class="meta-tags top20 bottom20">
                             <li><a href="#."><i class="fas fa-calendar-alt"></i>Sep 26</a></li>
-                            <!-- <li><a href="#."> <i class="far fa-user"></i> Varun </a></li> -->
                             <li><a href="#."><i class="far fa-comment-dots"></i>12 </a></li>
                         </ul>
                         <p class="bottom35">Haskell — необычный язык с точки зрения тех, кто привык к
@@ -99,8 +93,6 @@
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">Мастер класс</a></h3>
                         <ul class="meta-tags top20 bottom20">
                             <li><a href="#."><i class="fas fa-calendar-alt"></i>Apr 14</a></li>
-                            <!-- <li><a href="#."> <i class="far fa-user"></i> Harry </a></li> -->
-
                             <li><a href="#."><i class="far fa-comment-dots"></i>6 </a></li>
                         </ul>
                         <p class="bottom35">Прошёл очередной мастер класс по креативу от Мирисмоил Абдуллох @muamiruz
@@ -123,7 +115,6 @@
                             </a></h3>
                         <ul class="meta-tags top20 bottom20">
                             <li><a href="#."><i class="fas fa-calendar-alt"></i>Dec 24</a></li>
-                            <!-- <li><a href="#."> <i class="far fa-user"></i> Sonia </a></li> -->
                             <li><a href="#."><i class="far fa-comment-dots"></i>19 </a></li>
                         </ul>
                         <p class="bottom35">
@@ -141,7 +132,6 @@
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">Demo day</a></h3>
                         <ul class="meta-tags top20 bottom20">
                             <li><a href="#."><i class="fas fa-calendar-alt"></i>dec 13</a></li>
-                            <!-- <li><a href="#."> <i class="far fa-user"></i> David </a></li> -->
                             <li><a href="#."><i class="far fa-comment-dots"></i>8 </a></li>
                         </ul>
                         <p class="bottom35">НАПА Автомотив под руководством Умида Абдусатторова организует мероприятие
@@ -152,8 +142,8 @@
                     </div>
                 </div>
             </div>
-
         </div>
+
         <div class="row">
             <div class="col-sm-12">
                 <!--Pagination-->
@@ -169,52 +159,7 @@
         </div>
     </div>
 </section>
-<!--Our Blogs Ends-->
-<!-- Contact US -->
-<section id="stayconnect" class="bglight position-relative ">
-    <div class="container">
-        <div class="contactus-wrapp">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="heading-title wow fadeInUp text-center text-md-left" data-wow-delay="300ms">
-                        <h3 class="darkcolor bottom20">Оставайтесь на связи</h3>
-                    </div>
-                </div>
-                <div class="col-md-12 col-sm-12">
-                    <form class="getin_form wow fadeInUp" data-wow-delay="400ms" onsubmit="return false;">
-                        <div class="row">
-                            <div class="col-md-12 col-sm-12" id="result"></div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="userName" class="d-none"></label>
-                                    <input class="form-control" type="text" placeholder="ФИО" required id="userName"
-                                        name="userName">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="companyName" class="d-none"></label>
-                                    <input class="form-control" type="tel" placeholder="Компания" id="companyName"
-                                        name="companyName">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="email" class="d-none"></label>
-                                    <input class="form-control" type="email" placeholder="Email" required id="email"
-                                        name="email">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <button type="submit" class="button gradient-btn w-100"
-                                    id="submit_btn">Oтправить</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Contact US ends -->
+
+{{-- Contact us --}}
+@include('none.contact-news')
 @endsection
