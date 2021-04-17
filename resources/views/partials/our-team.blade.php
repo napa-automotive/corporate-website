@@ -43,7 +43,7 @@
                     </div>
                     <div class="team-content">
                         <h4 class="darkcolor">Sayidazim Mahmudov</h4>
-                        <p>PHP Backend developer</p>
+                        <p>Backend developer</p>
                         <ul class="social-icons-simple">
                             <li><a class="facebook" href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>

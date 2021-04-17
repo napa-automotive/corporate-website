@@ -58,6 +58,7 @@
                 <span>Graphics</span>
             </div>
         </div>
+
         <div id="services-measonry" class="cbp">
             @foreach ($services as $service)
                 <div class="cbp-item digital brand design">
@@ -69,7 +70,7 @@
                             </div>
                         </div>
                         <div class="services-content brand text-center text-md-left">
-                            <h3 class="bottom10 darkcolor"><a href="#">{{ $service->title }}</a></h3>
+                            <h3 class="bottom10 darkcolor"><a href="#">{{ $service->name }}</a></h3>
                             <p class="bottom15"> {{ $service->description }} </p>
                             <a href="#" class="button-readmore">Подробнее</a>
                         </div>

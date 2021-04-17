@@ -2,12 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-use App\Models\Partner;
-use App\Models\Service;
-use App\Models\Team;
-use App\Models\Thought;
+use App\Service;
+use App\Team;
 
 class FrontController extends Controller
 {
@@ -18,7 +15,7 @@ class FrontController extends Controller
      */
     public function __construct()
     {
-        // $this->middleware('auth');
+        //
     }
 
     /**
@@ -27,10 +24,7 @@ class FrontController extends Controller
     public function index()
     {
         $teams = Team::all();
-        $thoughts = Thought::all();
-        $partners = Partner::all();
-
-        return view('pages.index', ['teams' => $teams, 'thoughts' => $thoughts, 'partners' => $partners]);
+        return view('pages.home')->with('teams', $teams);
     }
 
     /**
@@ -55,7 +49,7 @@ class FrontController extends Controller
     public function team()
     {
         $teams = Team::all();
-        return view('pages.team', ['teams' => $teams]);
+        return view('pages.team')->with('teams', $teams);
     }
 
     /**
@@ -64,7 +58,7 @@ class FrontController extends Controller
     public function services()
     {
         $services = Service::all();
-        return view('pages.services', ['services' => $services]);
+        return view('pages.services')->with('services', $services);
     }
 
     /**

@@ -19,15 +19,15 @@
                 <div class="item">
                     <div class="team-box">
                         <div class="image">
-                            <img src="{{ $team->image }}" alt="">
+                            <img src="{{ $team->image }}" alt="{{ $team->name }}">
                         </div>
                         <div class="team-content">
                             <h4 class="darkcolor">{{ $team->name }}</h4>
                             <p>{{ $team->job }} </p>
                             <ul class="social-icons-simple">
-                                <li><a class="facebook" href="{{ $team->facebook }}"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a class="twitter" href="{{ $team->twitter }}"><i class="fab fa-twitter"></i></a></li>
-                                <li><a class="insta" href="{{ $team->instagram }}"><i class="fab fa-instagram"></i></a></li>
+                                <li><a class="facebook" href="{{ $team->facebook ?? '#' }}"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a class="twitter" href="{{ $team->twitter ?? '#' }}"><i class="fab fa-twitter"></i></a></li>
+                                <li><a class="insta" href="{{ $team->instagram ?? '#' }}"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
