@@ -22,7 +22,7 @@ return [
     ],
     [
         'name' => 'Madina Kaxxarova',
-        'image' => '/images/team-member-4.jpg',
+        'image' => '/images/team-member-4-2.jpg',
         'job' => 'Product owner',
     ],
     [

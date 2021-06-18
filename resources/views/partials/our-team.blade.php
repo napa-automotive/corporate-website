@@ -75,7 +75,7 @@
             <div class="item">
                 <div class="team-box">
                     <div class="image">
-                        <img src="/images/team-member-4.jpg" alt="" />
+                        <img src="/images/team-member-4-2.jpg" alt="" />
                     </div>
                     <div class="team-content">
                         <h4 class="darkcolor">Madina Kaxxarova</h4>
